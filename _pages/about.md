@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-这里是 Yuyang Gao 的个人主页，托管在 GitHub Pages 上，基于 [Academic Pages 模板](https://github.com/academicpages/academicpages.github.io)（感谢伟大的开源社区）。
+我是**高瑀阳**，目前在大连理工大学攻读自动化学士学位，专业排名 **1/164**，研究兴趣涵盖**具身智能**、**机器人 manipulation**和**模仿学习**，主要探索如何让机器人更聪明、更稳定、更通用地执行各种任务，比如抓取物体、开门、甚至端咖啡（尽管它们目前还不太能做到最后一点）。
 
-我目前在大连理工大学攻读自动化学士学位，专业排名 1/164（是的，我真的很努力！），研究兴趣涵盖 具身智能、机器人 manipulation 和模仿学习，主要探索如何让机器人更聪明、更稳定、更通用地执行各种任务，比如抓取物体、开门、甚至端咖啡（尽管它们目前还不太能做到最后一点）。
-
-在实验室里，我主要折腾 模仿学习（Imitation Learning）和 Sim2Real，尝试让机器人通过学习提升操作能力，而不是靠手工调参。曾在清华大学 AI 产业研究院实习，研究 双臂移动操纵机器人，使用 ACT 进行智能 manipulation 学习，并取得了一些有趣的成果。
+在实验室里，我主要折腾 模仿学习（Imitation Learning）和 Sim2Real，尝试让机器人通过学习提升操作能力，而不是靠手工调参。曾在清华大学 AI 产业研究院实习，研究双臂移动操纵机器人，使用 ACT 进行智能 manipulation 学习，并取得了一些有趣的成果。
 
 如果你对机器人、人工智能、SLAM、嵌入式系统或者数学建模感兴趣，欢迎交流！（当然，如果你只是想聊聊如何在 deadline 前抱佛脚，我也很愿意分享经验 😆）
 
@@ -21,18 +19,15 @@ redirect_from:
 
 研究兴趣
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+具身智能
+模仿学习
+机器人控制
 
 经历
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+大连理工大学
+自动化学士
+
 
 荣誉
 ------
@@ -40,4 +35,6 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 其他
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+此外，我还喜欢摄影、户外、音乐，以及一些硬件电子小东西，你或许可以在我的 [bilibili 账号](https://space.bilibili.com/260882142)中找到一些有趣的视频。
+
+这里是 Yuyang Gao 的个人主页，托管在 GitHub Pages 上，基于 [Academic Pages 模板](https://github.com/academicpages/academicpages.github.io)（感谢伟大的开源社区）。
