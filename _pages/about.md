@@ -27,13 +27,16 @@ redirect_from:
 
 经历
 ------
-大连理工大学
-自动化学士
-
-**AIR Tsinghua University, China**  
-清华大学，中国  
-<img src="../images/AIR.png" alt="清华AIR" style="height: 1.5em; vertical-align: middle;"> 2025.01 - Present  
+**清华大学AIR，中国**
+<img src="../images/AIR.png" alt="清华AIR" style="height: 1.5em; vertical-align: middle;"> 
+2025.01 - Present  
 科研实习生
+
+**大连理工大学，中国**
+<img src="../images/DUT.png" alt="清华AIR" style="height: 1.5em; vertical-align: middle;"> 
+2019.07 - Present  
+自动化学士
+GPA：94.5 | Ranking：1/164
 
 
 荣誉
