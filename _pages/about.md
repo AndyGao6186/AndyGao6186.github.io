@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "欢迎来到 Yuyang Gao 的学术小站 —— 这里有代码、机器人，还有（不多的）摸鱼时光"
 author_profile: true
 redirect_from: 
   - /about/
