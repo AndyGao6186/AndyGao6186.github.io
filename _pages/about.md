@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 我是**高瑀阳**，目前在大连理工大学攻读自动化学士学位，专业排名 **1/164**，研究兴趣涵盖**具身智能**、**机器人 manipulation**和**模仿学习**，主要探索如何让机器人更聪明、更稳定、更通用地执行各种任务，比如抓取物体、开门、甚至端咖啡（尽管它们目前还不太能做到最后一点）。
 
 在实验室里，我主要折腾 模仿学习（Imitation Learning）和 Sim2Real，尝试让机器人通过学习提升操作能力，而不是靠手工调参。曾在清华大学 AI 产业研究院实习，研究双臂移动操纵机器人，使用 ACT 进行智能 manipulation 学习，并取得了一些有趣的成果。
@@ -17,11 +18,13 @@ redirect_from:
 
 [Email](mailto:gaoyuyang6186@163.com) / [Github](https://github.com/AndyGao6186) / [Wechat](../images/wechat.jpg)
 
+
 研究兴趣
 ------
 具身智能
 模仿学习
 机器人控制
+
 
 经历
 ------
@@ -33,8 +36,10 @@ redirect_from:
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
+
 其他
 ------
 此外，我还喜欢摄影、户外、音乐，以及一些硬件电子小东西，你或许可以在我的 [bilibili 账号](https://space.bilibili.com/260882142)中找到一些有趣的视频。
 
-这里是 Yuyang Gao 的个人主页，托管在 GitHub Pages 上，基于 [Academic Pages 模板](https://github.com/academicpages/academicpages.github.io)（感谢伟大的开源社区）。
+
+注：本网页托管在 GitHub Pages 上，基于 [Academic Pages 模板](https://github.com/academicpages/academicpages.github.io)（感谢伟大的开源社区）。
