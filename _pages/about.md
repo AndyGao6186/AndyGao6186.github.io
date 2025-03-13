@@ -25,43 +25,31 @@ redirect_from:
 
 此外，我对强化学习、模仿学习以及纳米机器人在医疗中的应用也有所关注。
 
-经历
+**经历**
 ------
-**清华大学AIR，中国**
+**清华大学 AI 产业研究院，中国**  
+*科研实习生*  
+2025.01 - 至今  
+![AIR](/images/AIR.png)  
 
-![AIR](/images/AIR.png)
-
-2025.01 - Present  
-
-科研实习生
-
-
-**大连理工大学，中国**
-
+**大连理工大学，中国**  
+*自动化学士*  
+2019.07 - 至今  
+GPA：94.5 | 排名：1/164  
 ![DUT](/images/DUT.png)
 
-2019.07 - Present  
+---
 
-自动化学士
-
-GPA：94.5 | Ranking：1/164
-
-
-荣誉
+**荣誉**
 ------
-全国大学生智能汽车竞赛（ROS组）**全国二等奖**  Jan. 2025
-
-**国家奖学金**  Nov. 2024
-
-全国大学生数学建模竞赛 **全国二等奖** Oct. 2024
-
-美国大学生数学建模竞赛 (ICM) **特等奖提名**  May. 2024
-
+- **全国大学生智能汽车竞赛（ROS组）全国二等奖**  | 2025年1月
+- **国家奖学金**  | 2024年11月
+- **全国大学生数学建模竞赛全国二等奖**  | 2024年10月
+- **美国大学生数学建模竞赛 (ICM) 特等奖提名**  | 2024年5月
 
 
 其他
 ------
 此外，我还喜欢摄影、户外、音乐，以及一些硬件电子小东西，你或许可以在我的 [bilibili 账号](https://space.bilibili.com/260882142)中找到一些有趣的视频。
 
-
-注：本网页托管在 GitHub Pages 上，基于 [Academic Pages 模板](https://github.com/academicpages/academicpages.github.io)（感谢伟大的开源社区）。
+另，本网页托管在 GitHub Pages 上，基于 [Academic Pages 模板](https://github.com/academicpages/academicpages.github.io)（感谢伟大的开源社区）。
