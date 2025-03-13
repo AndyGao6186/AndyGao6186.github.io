@@ -13,7 +13,7 @@ title                    : "Yuyang Gao / 高瑀阳的学术小站"
 title_separator          : "-"
 name                     : &name "Yuyang Gao"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://AndyGao6186.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
