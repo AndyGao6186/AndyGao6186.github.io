@@ -42,9 +42,12 @@ _基于ACT框架的机器人操作演示 / Robot manipulation demo with ACT fram
 荣誉
 ------
 全国大学生智能汽车竞赛（ROS组）**全国二等奖**  Jan. 2025
+
 **国家奖学金**  Nov. 2024
+
 全国大学生数学建模竞赛 **全国二等奖** Oct. 2024
-Finalist in the Interdisciplinary Contest in Modeling (ICM)  May. 2024
+
+美国大学生数学建模竞赛 (ICM) **特等奖提名**  May. 2024
 
 
 
