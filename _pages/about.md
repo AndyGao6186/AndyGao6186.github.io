@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-这里是 Yuyang Gao 的个人主页，托管在 GitHub Pages 上，基于 Academic Pages 模板（感谢伟大的开源社区）。我目前在大连理工大学攻读自动化学士学位，专业排名 1/164（是的，我真的很努力！），研究兴趣涵盖 具身智能、机器人 manipulation 和强化学习，主要探索如何让机器人更聪明、更稳定、更通用地执行各种任务，比如搬运物体、开门、甚至端咖啡（尽管它们目前还不太能做到最后一点）。
+这里是 Yuyang Gao 的个人主页，托管在 GitHub Pages 上，基于 [Academic Pages 模板](https://github.com/academicpages/academicpages.github.io)（感谢伟大的开源社区）。我目前在大连理工大学攻读自动化学士学位，专业排名 1/164（是的，我真的很努力！），研究兴趣涵盖 具身智能、机器人 manipulation 和强化学习，主要探索如何让机器人更聪明、更稳定、更通用地执行各种任务，比如搬运物体、开门、甚至端咖啡（尽管它们目前还不太能做到最后一点）。
 
 在实验室里，我主要折腾 模仿学习（Imitation Learning）、强化学习（Reinforcement Learning）和 Sim2Real 迁移，尝试让机器人通过学习提升操作能力，而不是靠手工调参。曾在清华大学 AI 产业研究院实习，研究 双臂移动 Manipulator 机器人，使用 Action Chunking with Transformers（ACT） 进行智能 manipulation 学习，并取得了一些有趣的成果。
 
