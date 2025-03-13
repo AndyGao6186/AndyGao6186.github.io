@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Yuyang Gao / 高瑀阳的学术小站"
 title_separator          : "-"
 name                     : &name "Yuyang Gao"
-description              : &description "personal description"
+# description              : &description "personal description"
 url                      : https://AndyGao6186.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "YuyangGao.png"
   name             : "Yuyang Gao"
-  pronouns         : "he/him"  
+  pronouns         : "he/his"  
   bio              : "Third-year Bachelor’s student majoring in Automation"
   location         : "Dalian, China"
   employer         : "Dalian University of Technology"
