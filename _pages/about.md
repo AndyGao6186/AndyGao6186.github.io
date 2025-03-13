@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+这里是 Yuyang Gao 的个人主页，托管在 GitHub Pages 上，基于 Academic Pages 模板（感谢伟大的开源社区）。我目前在大连理工大学攻读自动化学士学位，专业排名 1/164（是的，我真的很努力！），研究兴趣涵盖 具身智能、机器人 manipulation 和强化学习，主要探索如何让机器人更聪明、更稳定、更通用地执行各种任务，比如搬运物体、开门、甚至端咖啡（尽管它们目前还不太能做到最后一点）。
+
+在实验室里，我主要折腾 模仿学习（Imitation Learning）、强化学习（Reinforcement Learning）和 Sim2Real 迁移，尝试让机器人通过学习提升操作能力，而不是靠手工调参。曾在清华大学 AI 产业研究院实习，研究 双臂移动 Manipulator 机器人，使用 Action Chunking with Transformers（ACT） 进行智能 manipulation 学习，并取得了一些有趣的成果。
+
+如果你对机器人、人工智能、SLAM、嵌入式系统或者数学建模感兴趣，欢迎交流！（当然，如果你只是想聊聊如何在 deadline 前抱佛脚，我也很愿意分享经验 😆）
 
 A data-driven personal website
 ======
