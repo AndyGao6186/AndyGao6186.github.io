@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "欢迎来到 Yuyang Gao 的学术小站 
-—— 这里有代码、机器人，还有（不多的）摸鱼时光"
+title: "欢迎来到 Yuyang Gao 的学术小站 <br>—— 这里有代码、机器人，还有（不多的）摸鱼时光"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,9 +21,7 @@ redirect_from:
 
 研究兴趣
 ------
-具身智能
-模仿学习
-机器人控制
+**具身智能 模仿学习 机器人控制**
 
 此外，我对强化学习、模仿学习以及纳米机器人在医疗中的应用也有所关注。
 
