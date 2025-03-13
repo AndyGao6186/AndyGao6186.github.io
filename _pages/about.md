@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-我是**高瑀阳**，目前在大连理工大学攻读自动化学士学位，专业排名 **1/164**，研究兴趣涵盖**具身智能**、**机器人 manipulation**和**模仿学习**，主要探索如何让机器人更聪明、更稳定、更通用地执行各种任务，比如抓取物体、开门、甚至端咖啡（尽管它们目前还不太能做到最后一点）。
+我是**高瑀阳**，目前在**大连理工大学**攻读自动化学士学位，专业排名 **1/164**，研究兴趣涵盖 **具身智能**、**机器人 manipulation** 和 **模仿学习**，主要探索如何让机器人更聪明、更稳定、更通用地执行各种任务，比如抓取物体、开门、甚至端咖啡（尽管它们目前还不太能做到最后一点）。
 
-在实验室里，我主要折腾 模仿学习（Imitation Learning）和 Sim2Real，尝试让机器人通过学习提升操作能力，而不是靠手工调参。曾在清华大学 AI 产业研究院实习，研究双臂移动操纵机器人，使用 ACT 进行智能 manipulation 学习，并取得了一些有趣的成果。
+在实验室里，我主要折腾 模仿学习（Imitation Learning）和 Sim2Real，尝试让机器人通过学习提升操作能力，而不是靠手工调参。曾在**清华大学 AI 产业研究院**实习，研究双臂移动操纵机器人，使用 ACT 进行 manipulation 学习，并取得了一些有趣的成果。
 
 如果你对机器人、人工智能、SLAM、嵌入式系统或者数学建模感兴趣，欢迎交流！（当然，如果你只是想聊聊如何在 deadline 前抱佛脚，我也很愿意分享经验 😆）
 
@@ -30,6 +30,14 @@ redirect_from:
 大连理工大学
 自动化学士
 
+**Tsinghua University, China**  
+清华大学，中国  
+<img src="../icons/tsinghua_logo.png" alt="清华校徽" style="height: 1.5em; vertical-align: middle;"> 2024.07 - Present  
+
+**Master Student in Computer Science**  
+计算机科学硕士研究生  
+![机器人操作实验]({{ site.baseurl }}/assets/images/manipulation_demo.gif)  
+_基于ACT框架的机器人操作演示 / Robot manipulation demo with ACT framework_
 
 荣誉
 ------
