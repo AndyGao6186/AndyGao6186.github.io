@@ -28,14 +28,22 @@ redirect_from:
 经历
 ------
 **清华大学AIR，中国**
+
 ![AIR](/images/AIR.png)
+
 2025.01 - Present  
+
 科研实习生
 
+
 **大连理工大学，中国**
+
 ![DUT](/images/DUT.png)
+
 2019.07 - Present  
+
 自动化学士
+
 GPA：94.5 | Ranking：1/164
 
 
