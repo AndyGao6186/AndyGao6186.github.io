@@ -17,7 +17,7 @@ redirect_from:
 
 你可以在这里找到我的简历：[YuyangGao's CV](../assets/CV.pdf).
 
-[Email](gaoyuyang6186@163.com) / [Github](https://github.com/AndyGao6186) / [Wechat](../images/wechat.jpg)
+[Email](mailto:gaoyuyang6186@163.com) / [Github](https://github.com/AndyGao6186) / [Wechat](../images/wechat.jpg)
 
 A data-driven personal website
 ======
