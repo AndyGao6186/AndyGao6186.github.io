@@ -41,7 +41,11 @@ _基于ACT框架的机器人操作演示 / Robot manipulation demo with ACT fram
 
 荣誉
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+全国大学生智能汽车竞赛（ROS组）**全国二等奖**  Jan. 2025
+**国家奖学金**  Nov. 2024
+全国大学生数学建模竞赛 **全国二等奖** Oct. 2024
+Finalist in the Interdisciplinary Contest in Modeling (ICM)  May. 2024
+
 
 
 其他
