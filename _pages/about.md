@@ -18,13 +18,13 @@ redirect_from:
 [Email](mailto:gaoyuyang6186@163.com) / [Github](https://github.com/AndyGao6186) / [Wechat](../images/wechat.jpg)
 
 研究兴趣
-======
+------
 具身智能
 模仿学习
 机器人控制
 
 经历
-======
+------
 大连理工大学
 自动化学士
 
