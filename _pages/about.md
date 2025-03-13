@@ -30,14 +30,11 @@ redirect_from:
 大连理工大学
 自动化学士
 
-**Tsinghua University, China**  
+**AIR Tsinghua University, China**  
 清华大学，中国  
-<img src="../icons/tsinghua_logo.png" alt="清华校徽" style="height: 1.5em; vertical-align: middle;"> 2024.07 - Present  
+<img src="../images/AIR.png" alt="清华AIR" style="height: 1.5em; vertical-align: middle;"> 2025.01 - Present  
+科研实习生
 
-**Master Student in Computer Science**  
-计算机科学硕士研究生  
-![机器人操作实验]({{ site.baseurl }}/assets/images/manipulation_demo.gif)  
-_基于ACT框架的机器人操作演示 / Robot manipulation demo with ACT framework_
 
 荣誉
 ------
