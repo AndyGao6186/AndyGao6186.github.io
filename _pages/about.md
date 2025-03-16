@@ -50,6 +50,9 @@ GPA：94.5 | 排名：1/164
 
 其他
 ------
-此外，我还喜欢摄影、户外、音乐，以及一些硬件电子小东西，你或许可以在我的 [bilibili 账号](https://space.bilibili.com/260882142)中找到一些有趣的视频。
+此外，我还喜欢摄影![004F7965](https://github.com/user-attachments/assets/04583922-88c8-4865-b369-a8f5ce8ad3d0)
+、户外![004FBAD3](https://github.com/user-attachments/assets/4b8cc1a0-a51e-43f0-8944-38a8171d6c8e)
+、音乐![004FCB5E](https://github.com/user-attachments/assets/cc330692-f439-49c9-892a-53ce9713e261)
+，以及一些硬件电子小东西，你或许可以在我的 [Bilibili 账号](https://space.bilibili.com/260882142)中找到一些有趣的视频。
 
 另，本网页托管在 GitHub Pages 上，基于 [Academic Pages 模板](https://github.com/academicpages/academicpages.github.io)（感谢伟大的开源社区）。
