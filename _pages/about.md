@@ -36,7 +36,14 @@ redirect_from:
   <source src="../assets/project1.mp4" type="video/mp4">
 </video>
 
-
+### **二维 SLAM 自主建图竞速赛**  
+*全国大学生智能汽车竞赛 全国二等奖*  
+- 解析 **激光雷达数据** 精确识别锥桶位置，实时计算最优舵机角度  
+- **动态记录轨迹**，基于位置信息生成栅格地图，并智能采集关键导航点  
+- 利用 **TEB 路径规划**，基于首圈建图数据优化行驶轨迹，全速冲刺！  
+<video width="100%" controls>
+  <source src="../assets/project2.mp4" type="video/mp4">
+</video>
 
 ---
 
