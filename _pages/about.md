@@ -31,7 +31,7 @@ redirect_from:
 **科研实习生**（2025.01 - 至今）  
 - 研究双臂移动操纵机器人，探索模仿学习新方法  
 - 让 Sim2Real 不再是 “玄学”  
-<video width="100%" controls>
+<video width="50%" controls>
   <source src="../assets/project1.mp4" type="video/mp4">
 </video>
 
