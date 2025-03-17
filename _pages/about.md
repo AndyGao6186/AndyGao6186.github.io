@@ -25,7 +25,7 @@ redirect_from:
 
 ---
 
-## **项目**  
+## **项目 🔧**  
 
 ### **双臂机器人 Manipulation 模仿学习**  
 *科研实习生*  
@@ -36,7 +36,7 @@ redirect_from:
   <source src="../assets/project1.mp4" type="video/mp4">
 </video>
 
-### **二维 SLAM 自主建图竞速赛**  
+### **二维 SLAM 自主建图 竞速赛**  
 *全国大学生智能汽车竞赛 全国二等奖*  
 - 解析 **激光雷达数据** 精确识别锥桶位置，实时计算最优舵机角度  
 - **动态记录轨迹**，基于位置信息生成栅格地图，并智能采集关键导航点  
@@ -70,7 +70,7 @@ redirect_from:
 ---
 
 ## **课外生活 🎵**  
-除了科研，我还是个 **摄影爱好者、户外运动爱好者、音乐发烧友**，偶尔也会鼓捣点 **硬件电子小玩意**。你或许能在我的 **[Bilibili 账号](https://space.bilibili.com/260882142)** 里找到一些有趣的视频。  
+除了科研，我还是个 **摄影爱好者 📸、户外运动爱好者 🏕️、音乐发烧友 🎷**，偶尔也会鼓捣点 **硬件电子小玩意 🔋**。你或许能在我的 **[Bilibili 账号](https://space.bilibili.com/260882142)** 里找到一些有趣的视频。  
 
 📢 **本网页基于 [Academic Pages](https://github.com/academicpages/academicpages.github.io)，托管在 GitHub Pages**。感谢伟大的开源社区！
 
