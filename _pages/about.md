@@ -15,7 +15,7 @@ redirect_from:
 
 如果你对 **机器人、人工智能、SLAM、嵌入式系统** 或者 **数学建模** 感兴趣，欢迎找我交流！当然，如果你只是想聊聊 **如何在 deadline 前临时抱佛脚**，那我更是有一大堆血泪经验可以分享 😆。  
 
-[**CV**](../assets/CV.pdf) / [**Email**](mailto:gaoyuyang6186@163.com) / [**GitHub**](https://github.com/AndyGao6186) / [**Wechat**](../images/wechat.jpg) 
+[CV](../assets/CV.pdf) / [Email](mailto:gaoyuyang6186@163.com) / [GitHub](https://github.com/AndyGao6186) / [Wechat](../images/wechat.jpg) 
 
 ---
 
@@ -25,12 +25,25 @@ redirect_from:
 
 ---
 
-## **经历 🏆**  
+## **项目**  
 
 ### **清华大学 AI 产业研究院，中国**  
 **科研实习生**（2025.01 - 至今）  
 - 研究双臂移动操纵机器人，探索模仿学习新方法  
 - 让 Sim2Real 不再是 “玄学”  
+<video width="100%" controls>
+  <source src="../assets/project1.mp4" type="video/mp4">
+</video>
+
+
+---
+
+## **经历 🏆**  
+
+### **清华大学 AI 产业研究院，中国**  
+**科研实习生**（2025.01 - 至今）  
+- 研究双臂移动操纵机器人，探索模仿学习新方法  
+- 数据融合，让 Sim2Real 不再是 “玄学”  
 
 ### **大连理工大学，中国**  
 **自动化学士**（2022.07 - 至今）
