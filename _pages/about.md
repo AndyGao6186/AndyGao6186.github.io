@@ -27,23 +27,14 @@ redirect_from:
 
 ## **项目**  
 
-### **清华大学 AI 产业研究院，中国**  
-**科研实习生**（2025.01 - 至今）  
-<table>
-  <tr>
-    <td>
-      <video width="280" controls>
-        <source src="assets/project1.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <p>**清华大学 AI 产业研究院，中国**</p>
-      <p>研究双臂移动操纵机器人，探索模仿学习新方法</p>
-      <p>让 Sim2Real 不再是 “玄学”</p>
-    </td>
-  </tr>
-</table>
+### **双臂机器人 Manipulation 模仿学习**  
+*科研实习生*  
+- 调试 **ACT 算法**，利用仿真器特权获取物体位姿，实现高效数据生成  
+- 融合 **仿真数据** 与 **真实机器人数据**，充分挖掘多源数据的潜力  
+- 采集 **300 条仿真数据**、**50 条真实数据**，优化模型，使真实机器人成功率提升至 **80%**  
+<video width="100%" controls>
+  <source src="../assets/project1.mp4" type="video/mp4">
+</video>
 
 
 
@@ -54,7 +45,7 @@ redirect_from:
 ### **清华大学 AI 产业研究院，中国**  
 **科研实习生**（2025.01 - 至今）  
 - 研究双臂移动操纵机器人，探索模仿学习新方法  
-- 数据融合，让 Sim2Real 不再是 “玄学”  
+- 让 Sim2Real 不再是 “玄学”  
 
 ### **大连理工大学，中国**  
 **自动化学士**（2022.07 - 至今）
