@@ -29,25 +29,22 @@ redirect_from:
 
 ### **清华大学 AI 产业研究院，中国**  
 **科研实习生**（2025.01 - 至今）  
-- 研究双臂移动操纵机器人，探索模仿学习新方法  
-- 让 Sim2Real 不再是 “玄学”  
-<video width="50%" controls>
-  <source src="../assets/project1.mp4" type="video/mp4">
-</video>
-
-### **清华大学 AI 产业研究院，中国**  
-**科研实习生**（2025.01 - 至今）  
-<div class="container">
-    <video class="video" width="300" controls>
+<table>
+  <tr>
+    <td>
+      <video width="280" controls>
         <source src="assets/project1.mp4" type="video/mp4">
         Your browser does not support the video tag.
-    </video>
-    <div class="text">
-        <p>**清华大学 AI 产业研究院，中国**</p>
-        <p>研究双臂移动操纵机器人，探索模仿学习新方法</p>
-        <p>让 Sim2Real 不再是 “玄学”</p>
-    </div>
-</div>
+      </video>
+    </td>
+    <td>
+      <p>**清华大学 AI 产业研究院，中国**</p>
+      <p>研究双臂移动操纵机器人，探索模仿学习新方法</p>
+      <p>让 Sim2Real 不再是 “玄学”</p>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
