@@ -15,7 +15,7 @@ redirect_from:
 
 如果你对 **机器人、人工智能、SLAM、嵌入式系统** 或者 **数学建模** 感兴趣，欢迎找我交流！当然，如果你只是想聊聊 **如何在 deadline 前临时抱佛脚**，那我更是有一大堆血泪经验可以分享 😆。  
 
-[CV](../assets/CV.pdf) / [Email](mailto:gaoyuyang6186@163.com) / [GitHub](https://github.com/AndyGao6186) / [Wechat](../images/wechat.jpg) 
+[CV](../assets/CV.pdf) / [Transcript](../assets/Transcript.pdf) / [Email](mailto:gaoyuyang6186@163.com) / [GitHub](https://github.com/AndyGao6186) / [Wechat](../images/wechat.jpg) 
 
 ---
 
