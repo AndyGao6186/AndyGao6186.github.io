@@ -1,79 +1,80 @@
 ---
 permalink: /
-title: "欢迎来到 Yuyang Gao 的学术小站"
+title: "Welcome to Yuyang Gao's Academic Hub"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-## **欢迎来到 Yuyang Gao 的学术小站 🚀**  
+## **Welcome to Yuyang Gao's Academic Hub 🚀**  
 
-👋 **Hi，我是高瑀阳**，目前在 **大连理工大学** 攻读自动化学士学位，专业排名 **1/164**，研究方向是 **具身智能、机器人 Manipulation 和模仿学习**。用大白话讲，就是在折腾如何让机器人更聪明、更稳定、更通用地干活——比如让它学会抓取物体、开门，甚至帮我端咖啡（尽管目前它可能更擅长打翻它）。  
+👋 **Hi, I'm Yuyang Gao**, currently pursuing a **Bachelor's degree in Automation at Dalian University of Technology**, ranking **1st out of 164 students**. My research interests lie in **Embodied Intelligence, Robot Manipulation, and Imitation Learning**. Simply put, I work on making robots smarter, more stable, and more versatile in performing tasks—whether it’s grasping objects, opening doors, or even bringing me a cup of coffee (though, for now, it might be better at spilling it).  
 
-在实验室里，我主要玩 **模仿学习（Imitation Learning）和 Sim2Real**，让机器人少走弯路，能靠学习掌握技能，而不是让人一行行代码手搓调参。我曾在 **清华大学 AI 产业研究院** 实习，研究 **双臂移动操纵机器人**，用 **ACT 算法** 训练它学会 Manipulation 操作，并且取得了一些“有点意思”的成果。  
+In the lab, I mainly focus on **Imitation Learning and Sim2Real**, helping robots acquire skills through learning rather than hand-crafted coding. I previously interned at **Tsinghua University’s AI Industry Research Institute**, where I worked on **dual-arm mobile manipulation robots** and trained them using the **ACT algorithm** to improve manipulation tasks, achieving some promising results.  
 
-如果你对 **机器人、人工智能、SLAM、嵌入式系统** 或者 **数学建模** 感兴趣，欢迎找我交流！当然，如果你只是想聊聊 **如何在 deadline 前临时抱佛脚**，那我更是有一大堆血泪经验可以分享 😆。  
+If you're interested in **Robotics, AI, SLAM, Embedded Systems**, or **Mathematical Modeling**, feel free to reach out! And if you're just looking for last-minute survival tips before a deadline, I’ve got plenty of war stories to share 😆.  
 
-[CV](../assets/CV.pdf) / [Transcript](../assets/Transcript.pdf) / [Email](mailto:gaoyuyang6186@163.com) / [GitHub](https://github.com/AndyGao6186) / [Wechat](../images/wechat.jpg) 
-
----
-
-## **研究兴趣 🤖**  
-**具身智能、模仿学习、机器人控制**  
-此外，我对 **强化学习、持续学习** 以及 **纳米机器人在医疗中的应用** 也报有好奇。  
+[CV](../assets/CV.pdf) / [Transcript](../assets/Transcript.pdf) / [Email](mailto:gaoyuyang6186@163.com) / [GitHub](https://github.com/AndyGao6186) / [Wechat](../images/wechat.jpg)  
 
 ---
 
-## **项目 🔧**  
+## **Research Interests 🤖**  
+**Embodied Intelligence, Imitation Learning, Robot Control**  
+Additionally, I’m also curious about **Reinforcement Learning, Continual Learning**, and **the applications of nanorobots in healthcare**.  
 
-### **双臂机器人 Manipulation 模仿学习**  
-*清华大学 科研实习生*  
-- 调试 **ACT 算法**，利用仿真器特权获取物体位姿，实现高效数据生成  
-- 融合 **仿真数据** 与 **真实机器人数据**，充分挖掘多源数据的潜力  
-- 采集 **300 条仿真数据**、**50 条真实数据**，微调模型，使真实机器人成功率提升至 **80%**  
+---
+
+## **Projects 🔧**  
+
+### **Dual-Arm Robot Manipulation with Imitation Learning**  
+*Tsinghua University - Research Intern*  
+- Tuned the **ACT algorithm** to leverage privileged information from the simulator for efficient data generation  
+- Integrated **simulation data** with **real-world robot data** to fully exploit multi-source learning  
+- Collected **300 simulated samples** and **50 real-world samples**, fine-tuned the model, improving real-world success rates to **80%**  
 <video width="100%" controls>
   <source src="../assets/project1.mp4" type="video/mp4">
-</video>
+</video>  
 
-### **二维 SLAM 自主建图 竞速赛**  
-*全国大学生智能汽车竞赛 全国二等奖*  
-- 解析 **激光雷达数据** 精确识别锥桶位置，实时计算最优舵机角度  
-- **动态记录轨迹**，基于位置信息生成栅格地图，并智能采集关键导航点  
-- 利用 **TEB 路径规划**，基于首圈建图数据优化行驶轨迹，全速冲刺！  
+### **2D SLAM Autonomous Mapping and Racing**  
+*National College Student Intelligent Vehicle Competition - National Second Prize*  
+- Processed **LiDAR data** to accurately detect cone positions and calculate optimal steering angles in real-time  
+- **Dynamically recorded trajectories**, generating occupancy grid maps and extracting key navigation points  
+- Utilized **TEB path planning**, optimizing trajectories based on the initial mapping data for high-speed racing  
 <video width="100%" controls>
   <source src="../assets/project2.mp4" type="video/mp4">
-</video>
+</video>  
 
 ---
 
-## **经历 🏆**  
+## **Experience 🏆**  
 
-### **清华大学 AI 产业研究院，中国**  
-**科研实习生**（2025.01 - 至今）  
-- 研究双臂移动操纵机器人，探索模仿学习新方法  
-- 让 Sim2Real 不再是 “玄学”  
+### **Tsinghua University AI Industry Research Institute, China**  
+**Research Intern** (Jan 2025 - Present)  
+- Conducted research on dual-arm mobile manipulation robots, exploring new methods in imitation learning  
+- Bridging the gap between Sim2Real beyond theoretical speculation  
 
-### **大连理工大学，中国**  
-**自动化学士**（2022.07 - 至今）
-- GPA：**94.5**
-- 专业排名：**1/164**  
-
----
-
-## **荣誉 🏅**  
-- **2025**：全国大学生智能汽车竞赛（ROS组）🏎 **全国二等奖**  
-- **2024**：**国家奖学金**
-- **2024**：全国大学生数学建模竞赛 🧮 **全国二等奖**  
-- **2024**：美国大学生数学建模竞赛 (ICM) **特等奖提名**  
+### **Dalian University of Technology, China**  
+**Bachelor's in Automation** (Jul 2022 - Present)  
+- GPA: **94.5**  
+- Ranking: **1st out of 164**  
 
 ---
 
-## **课外生活 🎵**  
-除了科研，我还是个 **摄影爱好者 📸、户外运动爱好者 🏕️、音乐发烧友 🎷**，偶尔也会鼓捣点 **硬件电子小玩意 🔋**。你或许能在我的 **[Bilibili 账号](https://space.bilibili.com/260882142)** 里找到一些有趣的视频。  
-
-📢 **本网页基于 [Academic Pages](https://github.com/academicpages/academicpages.github.io)，托管在 GitHub Pages**。感谢伟大的开源社区！
+## **Honors & Awards 🏅**  
+- **2025**: National College Student Intelligent Vehicle Competition (ROS Group) 🏎 **National Second Prize**  
+- **2024**: **National Scholarship**  
+- **2024**: National College Student Mathematical Modeling Competition 🧮 **National Second Prize**  
+- **2024**: Interdisciplinary Contest in Modeling (ICM) **Finalist Honorable Mention**  
 
 ---
 
-**如果你看到这里了，那我们应该是同类人！来聊聊吧！💬**
+## **Beyond Research 🎵**  
+Outside of academia, I’m a **photography enthusiast 📸, outdoor adventurer 🏕️, and music lover 🎷**. I also enjoy tinkering with **hardware and electronics 🔋**. You might find some interesting videos on my **[Bilibili profile](https://space.bilibili.com/260882142)**.  
+
+📢 **This webpage is built with [Academic Pages](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub Pages**. Huge thanks to the amazing open-source community!  
+
+---
+
+**If you’ve read this far, we’re probably like-minded! Let’s chat! 💬**
+
