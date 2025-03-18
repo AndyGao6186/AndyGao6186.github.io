@@ -13,7 +13,7 @@ redirect_from:
 
 In the lab, I mainly focus on **Imitation Learning and Sim2Real**, helping robots acquire skills through learning rather than hand-crafted coding. I previously interned at **Tsinghua University’s AI Industry Research Institute**, where I worked on **dual-arm mobile manipulation robots** and trained them using the **ACT algorithm** to improve manipulation tasks, achieving some promising results.  
 
-If you're interested in **Robotics, AI, SLAM, Embedded Systems**, or **Mathematical Modeling**, feel free to reach out! And if you're just looking for last-minute survival tips before a deadline, I’ve got plenty of war stories to share 😆.  
+If you're interested in **Robotics, AI, SLAM, Embedded Systems**, or **Mathematical Modeling**, feel free to reach out! And if you're just looking for last-minute survival tips before a deadline, I’ve got plenty of stories to share 😆.  
 
 [CV](../assets/CV.pdf) / [Transcript](../assets/Transcript.pdf) / [Email](mailto:gaoyuyang6186@163.com) / [GitHub](https://github.com/AndyGao6186) / [Wechat](../images/wechat.jpg)  
 
