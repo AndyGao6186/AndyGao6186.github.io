@@ -9,7 +9,7 @@ redirect_from:
 
 ## **Welcome to Yuyang Gao's Academic Hub 🚀**  
 
-👋 **Hi, I'm Yuyang Gao**, currently pursuing a **Bachelor's degree in Automation at Dalian University of Technology**, ranking **1st out of 164 students**. My research interests lie in **Embodied AI, Robot Manipulation, and Imitation Learning**. Simply put, I work on making robots smarter, more stable, and more versatile in performing tasks—whether it’s grasping objects, opening doors, or even bringing me a cup of coffee (though, for now, it might be better at spilling it).  
+👋 **Hi, I'm Yuyang Gao**, currently pursuing a **Bachelor's degree in Automation at Dalian University of Technology**, ranking **1st out of 162 students**. My research interests lie in **Embodied AI, Robot Manipulation, and Imitation Learning**. Simply put, I work on making robots smarter, more stable, and more versatile in performing tasks—whether it’s grasping objects, opening doors, or even bringing me a cup of coffee (though, for now, it might be better at spilling it).  
 
 In the lab, I mainly focus on **Imitation Learning and Sim2Real**, helping robots acquire skills through learning rather than hand-crafted coding. I previously interned at **Tsinghua University’s Institute for AI Industry Research**, where I worked on **dual-arm mobile manipulation robots** and trained them using the **ACT algorithm** to improve manipulation tasks, achieving some promising results.  
 
