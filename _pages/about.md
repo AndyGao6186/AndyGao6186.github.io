@@ -9,19 +9,16 @@ redirect_from:
 
 ## **Welcome to Yuyang Gao's Academic Hub 🚀**  
 
-👋 **Hi, I'm Yuyang Gao**, currently pursuing a **Bachelor's degree in Automation at Dalian University of Technology**, ranking **1st out of 162 students**. My research interests lie in **Embodied AI, Robot Manipulation, and Imitation Learning**. Simply put, I work on making robots smarter, more stable, and more versatile in performing tasks—whether it’s grasping objects, opening doors, or even bringing me a cup of coffee (though, for now, it might be better at spilling it).  
+👋 **Hi, I'm Yuyang Gao**, currently pursuing a **Bachelor's degree in Automation at Dalian University of Technology**, ranking **1st out of 162 students**. My research interests lie in **Embodied AI, Robot Manipulation, and Self-Driving Lab**. Simply put, I’m training robots to be the ultimate lab partners—capable of conducting precision experiments 24/7 without getting bored by repetitive pipetting. Though, for now, they seem to be much better at turning a routine reaction into an unplanned “fireworks display”. 
 
-In the lab, I mainly focus on **Imitation Learning and Sim2Real**, helping robots acquire skills through learning rather than hand-crafted coding. I previously interned at **Tsinghua University’s Institute for AI Industry Research**, where I worked on **dual-arm mobile manipulation robots** and trained them using the **ACT algorithm** to improve manipulation tasks, achieving some promising results.  
-
-If you're interested in **Robotics, Embodied AI, SLAM**, or **Mathematical Modeling**, feel free to reach out! (And if you're just looking for last-minute survival tips before a deadline, I’ve got plenty of stories to share 😆.)  
+If you're interested in **Robotics**, feel free to reach out! (And if you're just looking for last-minute survival tips before a deadline, I’ve got plenty of stories to share 😆.)  
 
 [CV](../assets/CV.pdf) / [Transcript](../assets/Transcript.pdf) / [Email](mailto:gaoyuyang6186@163.com) / [GitHub](https://github.com/AndyGao6186) / [Wechat](../images/wechat.jpg)  
 
 ---
 
 ## **Research Interests 🤖**  
-**Embodied AI, Imitation Learning, Robot Control**  
-Additionally, I’m also curious about **Reinforcement Learning, Life-long Learning**, and **the applications of nanorobots in healthcare**.  
+**Embodied AI, Robot Manipulation, Self-Driving Lab**  
 
 ---
 
@@ -63,7 +60,7 @@ Additionally, I’m also curious about **Reinforcement Learning, Life-long Learn
 
 ## **Honors & Awards 🏅**  
 - **2025**: National College Student Intelligent Vehicle Competition (ROS Group) 🏎 **National Second Prize**  
-- **2024**: **National Scholarship**  
+- **2025 & 2024**: **National Scholarship**  
 - **2024**: National College Student Mathematical Modeling Competition 🧮 **National Second Prize**  
 - **2024**: Interdisciplinary Contest in Modeling (ICM) **Finalist**  
 
