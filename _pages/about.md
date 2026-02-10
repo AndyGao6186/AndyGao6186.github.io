@@ -46,15 +46,16 @@ If you're interested in **Robotics**, feel free to reach out! (And if you're jus
 
 ## **Experience 🏆**  
 
+### **Peking University School of Computer Science, China**  
+**Research Intern** (Nov 2025 - Feb 2026)  
+
 ### **Tsinghua University AI Industry Research Institute, China**  
-**Research Intern** (Jan 2025 - Present)  
-- Conducted research on dual-arm mobile manipulation robots, exploring new methods in imitation learning  
-- Bridging the gap between Sim2Real beyond theoretical speculation  
+**Research Intern** (Jan 2025 - Apr 2025)  
 
 ### **Dalian University of Technology, China**  
 **Bachelor's in Automation** (Jul 2022 - Present)  
-- GPA: **94.5**  
-- Ranking: **1st out of 164**  
+- GPA: **94.6**  
+- Ranking: **1st out of 162**  
 
 ---
 
