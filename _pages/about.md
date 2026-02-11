@@ -13,7 +13,7 @@ redirect_from:
 
 If you're interested in **Robotics**, feel free to reach out! (And if you're just looking for last-minute survival tips before a deadline, I’ve got plenty of stories to share 😆.)  
 
-[CV](../assets/CV.pdf) / [Transcript](../assets/Transcript.pdf) / [Email](mailto:gaoyuyang6186@163.com) / [GitHub](https://github.com/AndyGao6186) / [Wechat](../images/wechat.jpg)  
+[CV](../assets/CV.pdf) / [Transcript](../assets/Transcript.pdf) / [Email](mailto:gaoyuyang6186@163.com) / [GitHub](https://github.com/AndyGao6186) / [Wechat](../images/wechat.png)  
 
 ---
 
