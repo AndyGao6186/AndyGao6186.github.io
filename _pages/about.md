@@ -9,7 +9,7 @@ redirect_from:
 
 ## **Welcome to Yuyang Gao's Academic Hub 🚀**  
 
-👋 **Hi, I'm Yuyang Gao**, currently pursuing a **Bachelor's degree in Automation at Dalian University of Technology** (ranking **1st out of 162** students) and an incoming Master’s student in Computer Science at Peking University. My research interests lie in **Embodied AI, Robot Manipulation, and Self-Driving Lab**. Simply put, I’m training robots to be the ultimate lab partners—capable of conducting precision experiments 24/7 without getting bored by repetitive pipetting. Though, for now, they seem to be much better at turning a routine reaction into an unplanned “fireworks display”. 
+👋 **Hi, I'm Yuyang Gao**, currently pursuing a Bachelor's degree in Automation at **Dalian University of Technology** (ranking **1st out of 162** students) and an incoming Master’s student in Computer Science at **Peking University**. My research interests lie in **Embodied AI, Robot Manipulation, and Self-Driving Lab**. Simply put, I’m training robots to be the ultimate lab partners—capable of conducting precision experiments 24/7 without getting bored by repetitive pipetting. Though, for now, they seem to be much better at turning a routine reaction into an unplanned “fireworks display”. 
 
 If you're interested in **Robotics**, feel free to reach out! (And if you're just looking for last-minute survival tips before a deadline, I’ve got plenty of stories to share 😆.)  
 
