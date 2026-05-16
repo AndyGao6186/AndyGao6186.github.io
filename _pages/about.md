@@ -14,7 +14,6 @@ redirect_from:
     --ink: #172033;
     --muted: #6f7789;
     --line: rgba(23, 32, 51, 0.10);
-    --paper: #fffdf8;
     --mist: #f4f8f7;
     --jade: #0f766e;
     --jade-soft: #dff2ee;
@@ -52,14 +51,8 @@ redirect_from:
   }
 
   .page__content h2,
-  .page__content h3 {
-    margin-top: 0;
-  }
-
-  .page__content a {
-    color: var(--jade);
-    text-decoration: none;
-  }
+  .page__content h3 { margin-top: 0; }
+  .page__content a { color: var(--jade); text-decoration: none; }
 
   .gao-home {
     position: relative;
@@ -162,20 +155,15 @@ redirect_from:
     font-size: 1.06rem;
   }
 
-  .hero-actions,
-  .tag-row,
-  .card-links {
+  .hero-actions, .tag-row, .card-links {
     display: flex;
     flex-wrap: wrap;
     gap: 0.7rem;
   }
 
-  .hero-actions {
-    margin-top: 1.45rem;
-  }
+  .hero-actions { margin-top: 1.45rem; }
 
-  .pill-link,
-  .suit-tag {
+  .pill-link, .suit-tag {
     display: inline-flex;
     align-items: center;
     gap: 0.45rem;
@@ -197,10 +185,7 @@ redirect_from:
     color: #fff !important;
   }
 
-  .pill-link:hover,
-  .suit-tag:hover,
-  .project-card:hover,
-  .journey-item:hover {
+  .pill-link:hover, .suit-tag:hover, .project-card:hover, .journey-item:hover {
     transform: translateY(-2px);
   }
 
@@ -254,18 +239,8 @@ redirect_from:
     border: 1px solid var(--line);
   }
 
-  .profile-note strong {
-    display: block;
-    color: var(--ink);
-    font-size: 1rem;
-  }
-
-  .profile-note span {
-    display: block;
-    margin-top: 0.25rem;
-    color: var(--muted);
-    font-size: 0.92rem;
-  }
+  .profile-note strong { display: block; color: var(--ink); font-size: 1rem; }
+  .profile-note span { display: block; margin-top: 0.25rem; color: var(--muted); font-size: 0.92rem; }
 
   .suit-grid {
     display: grid;
@@ -274,20 +249,14 @@ redirect_from:
     margin: 1.2rem 0 2.2rem;
   }
 
-  .suit-card,
-  .project-card,
-  .journey-item,
-  .soft-panel,
-  .visitor-panel {
+  .suit-card, .project-card, .journey-item, .soft-panel, .visitor-panel {
     border: 1px solid var(--line);
     border-radius: var(--radius);
     background: rgba(255,255,255,0.78);
     box-shadow: 0 12px 34px rgba(31, 49, 74, 0.06);
   }
 
-  .suit-card {
-    padding: 1.05rem;
-  }
+  .suit-card { padding: 1.05rem; }
 
   .suit-symbol {
     display: inline-grid;
@@ -305,18 +274,13 @@ redirect_from:
   .green { color: var(--jade); }
   .blue { color: var(--blue); }
 
-  .suit-card h3,
-  .project-card h3,
-  .journey-text h3 {
+  .suit-card h3, .project-card h3, .journey-text h3 {
     margin: 0 0 0.35rem;
     font-size: 1.05rem;
     color: var(--ink);
   }
 
-  .suit-card p,
-  .project-card p,
-  .journey-text p,
-  .soft-panel p {
+  .suit-card p, .project-card p, .journey-text p, .soft-panel p {
     margin: 0;
     color: var(--muted);
     font-size: 0.95rem;
@@ -352,13 +316,9 @@ redirect_from:
     font-size: 0.95rem;
   }
 
-  .soft-panel {
-    padding: 1.35rem;
-  }
-
-  .tag-row {
-    margin-top: 1rem;
-  }
+  .soft-panel { padding: 1.35rem; }
+  .soft-panel.about-vision p { font-size: 1.02rem; color: #445066; }
+  .tag-row { margin-top: 1rem; }
 
   .suit-tag {
     padding: 0.52rem 0.76rem;
@@ -379,9 +339,7 @@ redirect_from:
     transition: transform 0.2s ease, box-shadow 0.2s ease;
   }
 
-  .project-body {
-    padding: 1.2rem;
-  }
+  .project-body { padding: 1.2rem; }
 
   .project-label {
     display: flex;
@@ -403,9 +361,7 @@ redirect_from:
     background: #f7faf9;
   }
 
-  .card-links {
-    margin-top: 0.85rem;
-  }
+  .card-links { margin-top: 0.85rem; }
 
   .mini-link {
     display: inline-flex;
@@ -417,10 +373,7 @@ redirect_from:
     font-size: 0.82rem;
   }
 
-  .journey-list {
-    display: grid;
-    gap: 0.9rem;
-  }
+  .journey-list { display: grid; gap: 0.9rem; }
 
   .journey-item {
     display: grid;
@@ -496,10 +449,7 @@ redirect_from:
     letter-spacing: -0.03em;
   }
 
-  .visitor-panel p {
-    margin: 0.2rem 0 1rem;
-    color: rgba(255,255,255,0.68);
-  }
+  .visitor-panel p { margin: 0.2rem 0 1rem; color: rgba(255,255,255,0.68); }
 
   .visitor-stats {
     display: grid;
@@ -514,18 +464,8 @@ redirect_from:
     border: 1px solid rgba(255,255,255,0.14);
   }
 
-  .visitor-stat strong {
-    display: block;
-    font-size: 1.5rem;
-    color: #fff;
-  }
-
-  .visitor-stat span {
-    display: block;
-    margin-top: 0.15rem;
-    color: rgba(255,255,255,0.62);
-    font-size: 0.82rem;
-  }
+  .visitor-stat strong { display: block; font-size: 1.5rem; color: #fff; }
+  .visitor-stat span { display: block; margin-top: 0.15rem; color: rgba(255,255,255,0.62); font-size: 0.82rem; }
 
   .footer-note {
     margin-top: 1.1rem;
@@ -535,24 +475,10 @@ redirect_from:
   }
 
   @media (max-width: 900px) {
-    .deck-hero,
-    .project-grid,
-    .two-col {
-      grid-template-columns: 1fr;
-    }
-
-    .suit-grid {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
-
-    .journey-item {
-      grid-template-columns: 64px 1fr;
-    }
-
-    .journey-meta {
-      grid-column: 2;
-      width: fit-content;
-    }
+    .deck-hero, .project-grid, .two-col { grid-template-columns: 1fr; }
+    .suit-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .journey-item { grid-template-columns: 64px 1fr; }
+    .journey-meta { grid-column: 2; width: fit-content; }
   }
 
   @media (max-width: 560px) {
@@ -587,7 +513,7 @@ redirect_from:
       </div>
       <div class="profile-note">
         <strong>Research taste</strong>
-        <span>Clean systems, measurable feedback, and robots that learn from real execution.</span>
+        <span>Long-horizon autonomy, real-world feedback, and robots that learn while acting.</span>
       </div>
     </aside>
   </section>
@@ -615,16 +541,16 @@ redirect_from:
     </div>
   </section>
 
-  <section class="soft-panel">
+  <section class="soft-panel about-vision">
     <div class="section-kicker">About</div>
     <p>
-      I am interested in building robotic systems that are not only able to execute predefined skills, but also able to observe experimental outcomes, reason over feedback, and improve their next actions. My current research direction is an agent-based closed-loop embodied experimental system for wet-lab scenarios, where the robot integrates perception, planning, execution, and reflection into a repeatable scientific workflow.
+      I am interested in robotic systems that can live and operate in the real world for extended periods — not merely executing isolated instructions, but continuously interacting with their environments, accumulating experience from physical feedback, and improving their behavior over time. More broadly, I hope to study how robots can become long-horizon, self-improving embodied agents: systems that perceive changing environments, act with reliable skills, reflect on outcomes, and adapt across tasks. My current work uses wet-lab experimentation as a concrete testbed for this vision, building agent-based closed-loop robots that connect perception, planning, execution, and reflection into a repeatable pathway toward continual autonomy.
     </p>
     <div class="tag-row">
-      <span class="suit-tag">♦ Self-Driving Lab</span>
-      <span class="suit-tag">♥ AI for Science</span>
-      <span class="suit-tag">♠ Manipulation Skills</span>
-      <span class="suit-tag">♣ Multimodal Perception</span>
+      <span class="suit-tag">♦ Long-Horizon Autonomy</span>
+      <span class="suit-tag">♥ Real-World Learning</span>
+      <span class="suit-tag">♠ Embodied Agents</span>
+      <span class="suit-tag">♣ Closed-Loop Robotics</span>
     </div>
   </section>
 
