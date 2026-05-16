@@ -18,7 +18,6 @@ redirect_from:
     --jade: #0f766e;
     --jade-soft: #dff2ee;
     --wine: #8f1d34;
-    --blue: #2d6f9f;
     --shadow: 0 22px 60px rgba(31, 49, 74, 0.10);
     --radius: 28px;
   }
@@ -185,14 +184,14 @@ redirect_from:
   .suit-card, .project-card, .journey-item, .soft-panel, .visitor-panel { border: 1px solid var(--line); border-radius: var(--radius); background: rgba(255,255,255,0.78); box-shadow: 0 12px 34px rgba(31, 49, 74, 0.06); }
   .suit-card { padding: 1.05rem; }
   .suit-symbol { display: inline-grid; place-items: center; width: 2.65rem; height: 2.65rem; margin-bottom: 0.82rem; border-radius: 16px; background: var(--mist); font-size: 1.45rem; }
-  .red { color: var(--wine); } .black { color: var(--ink); } .green { color: var(--jade); } .blue { color: var(--blue); }
+  .red { color: var(--wine); } .black { color: var(--ink); } .green { color: var(--jade); }
   .suit-card h3, .project-card h3, .journey-text h3 { margin: 0 0 0.35rem; font-size: 1.05rem; color: var(--ink); }
   .suit-card p, .project-card p, .journey-text p, .soft-panel p { margin: 0; color: var(--muted); font-size: 0.95rem; }
 
   .section-head { display: flex; justify-content: space-between; align-items: end; gap: 1rem; margin: 2.4rem 0 1rem; }
   .section-kicker { color: var(--jade); font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; font-size: 0.78rem; }
   .section-head h2 { margin: 0.16rem 0 0; font-family: Georgia, "Times New Roman", serif; font-size: clamp(1.75rem, 3vw, 2.55rem); letter-spacing: -0.04em; }
-  .section-head p { max-width: 410px; margin: 0; color: var(--muted); font-size: 0.95rem; }
+  .section-head p { max-width: 430px; margin: 0; color: var(--muted); font-size: 0.95rem; }
   .soft-panel { padding: 1.35rem; }
   .soft-panel.about-vision p { font-size: 1.02rem; color: #445066; }
   .tag-row { margin-top: 1rem; }
@@ -233,21 +232,10 @@ redirect_from:
   .visitor-stat { padding: 0.95rem; border-radius: 20px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.14); }
   .visitor-stat strong { display: block; font-size: 1.5rem; color: #fff; }
   .visitor-stat span { display: block; margin-top: 0.15rem; color: rgba(255,255,255,0.62); font-size: 0.82rem; }
-  .visitor-dashboard { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 0.85rem; }
-  .visitor-card { min-height: 185px; padding: 1rem; border-radius: 22px; background: rgba(255,255,255,0.075); border: 1px solid rgba(255,255,255,0.14); }
+  .visitor-dashboard { display: grid; grid-template-columns: 1fr 1fr; gap: 0.85rem; }
+  .visitor-card { min-height: 128px; padding: 1rem; border-radius: 22px; background: rgba(255,255,255,0.075); border: 1px solid rgba(255,255,255,0.14); }
   .visitor-card h3 { margin: 0 0 0.35rem; color: #fff; font-size: 1.02rem; }
-  .visitor-card p { font-size: 0.88rem; }
-  .history-bars { display: grid; grid-template-columns: repeat(7, 1fr); gap: 0.45rem; align-items: end; height: 92px; margin: 1rem 0 0.65rem; padding: 0.65rem; border-radius: 18px; background: rgba(255,255,255,0.07); }
-  .history-bars span { display: block; border-radius: 999px 999px 6px 6px; background: linear-gradient(180deg, rgba(223,242,238,0.92), rgba(15,118,110,0.72)); min-height: 18px; }
-  .history-bars span:nth-child(1) { height: 34%; } .history-bars span:nth-child(2) { height: 58%; } .history-bars span:nth-child(3) { height: 46%; } .history-bars span:nth-child(4) { height: 76%; } .history-bars span:nth-child(5) { height: 55%; } .history-bars span:nth-child(6) { height: 88%; } .history-bars span:nth-child(7) { height: 64%; }
-  .region-orbits { position: relative; min-height: 116px; margin-top: 0.9rem; border-radius: 18px; background: radial-gradient(circle at 50% 50%, rgba(255,255,255,0.13), rgba(255,255,255,0.05)); overflow: hidden; }
-  .region-orbits::before, .region-orbits::after { content: ""; position: absolute; border: 1px solid rgba(255,255,255,0.15); border-radius: 50%; inset: 18px 36px; }
-  .region-orbits::after { inset: 36px 70px; }
-  .region-dot { position: absolute; width: 9px; height: 9px; border-radius: 50%; background: #dff2ee; box-shadow: 0 0 18px rgba(223,242,238,0.9); }
-  .region-dot:nth-child(1) { left: 24%; top: 38%; } .region-dot:nth-child(2) { left: 50%; top: 24%; } .region-dot:nth-child(3) { left: 72%; top: 55%; } .region-dot:nth-child(4) { left: 42%; top: 70%; }
-  .analytics-actions { display: flex; flex-wrap: wrap; gap: 0.55rem; margin-top: 0.8rem; }
-  .analytics-link { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.45rem 0.68rem; border-radius: 999px; color: #fff !important; background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.16); font-size: 0.82rem; font-weight: 800; }
-  .analytics-note { margin-top: 0.72rem; color: rgba(255,255,255,0.50); font-size: 0.78rem; }
+  .analytics-link { display: inline-flex; align-items: center; gap: 0.35rem; margin-top: 0.75rem; padding: 0.45rem 0.68rem; border-radius: 999px; color: #fff !important; background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.16); font-size: 0.82rem; font-weight: 800; }
 
   .footer-note { margin-top: 1.1rem; color: var(--muted); text-align: center; font-size: 0.9rem; }
 
@@ -294,7 +282,7 @@ redirect_from:
     </aside>
   </section>
 
-  <section class="suit-grid" aria-label="Four-suit research tags">
+  <section class="suit-grid" aria-label="Research interests">
     <div class="suit-card"><div class="suit-symbol red">♦</div><h3>Embodied Intelligence</h3><p>Turning language-level goals into grounded robotic execution.</p></div>
     <div class="suit-card"><div class="suit-symbol red">♥</div><h3>Closed-loop Science</h3><p>Using physical feedback to make experiments measurable and adaptive.</p></div>
     <div class="suit-card"><div class="suit-symbol black">♠</div><h3>Robot Manipulation</h3><p>Skill abstraction, precise pouring, grasping, and long-horizon operations.</p></div>
@@ -315,8 +303,8 @@ redirect_from:
   </section>
 
   <div class="section-head">
-    <div><div class="section-kicker">Selected Projects</div><h2>Cards on the table</h2></div>
-    <p>Projects are arranged like a small deck: each card highlights a concrete system, task, or research thread.</p>
+    <div><div class="section-kicker">Selected Projects</div><h2>Research in action</h2></div>
+    <p>Selected work on embodied agents, robot manipulation, multimodal perception, and closed-loop experimental systems.</p>
   </div>
 
   <section class="project-grid" aria-label="Selected projects">
@@ -360,8 +348,8 @@ redirect_from:
   </section>
 
   <div class="section-head">
-    <div><div class="section-kicker">Academic Journey</div><h2>Where the story unfolds</h2></div>
-    <p>A clean timeline with institutional emblems, designed to feel academic without becoming heavy.</p>
+    <div><div class="section-kicker">Academic Journey</div><h2>Education & research experience</h2></div>
+    <p>My academic path across automation, artificial intelligence, computer science, and robotics.</p>
   </div>
 
   <section class="journey-list" aria-label="Academic experience">
@@ -384,7 +372,7 @@ redirect_from:
     </article>
   </section>
 
-  <div class="section-head"><div><div class="section-kicker">Honors & Beyond</div><h2>Signals beyond the page</h2></div></div>
+  <div class="section-head"><div><div class="section-kicker">Honors & Beyond</div><h2>Honors, interests, and life</h2></div></div>
 
   <section class="two-col">
     <div class="soft-panel">
@@ -410,9 +398,9 @@ redirect_from:
     <div class="visitor-top">
       <div>
         <h2>Visitor Record</h2>
-        <p>Daily history, regional footprints, and quiet public counters for this academic homepage.</p>
+        <p>Thank you for visiting my academic homepage.</p>
       </div>
-      <span class="visitor-mode">Analytics-ready</span>
+      <span class="visitor-mode">Welcome</span>
     </div>
 
     <div class="visitor-stats">
@@ -423,34 +411,17 @@ redirect_from:
 
     <div class="visitor-dashboard">
       <article class="visitor-card">
-        <h3>Daily Visit History</h3>
-        <p>GoatCounter/GA4 can record day-by-day visits. The small bar chart below is a visual placeholder; replace the GoatCounter site code after registration to make the live dashboard active.</p>
-        <div class="history-bars" aria-label="Daily visit history placeholder"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
-        <div class="analytics-actions">
-          <a class="analytics-link" href="https://andygao6186.goatcounter.com" target="_blank" rel="noopener">Open daily dashboard</a>
-          <a class="analytics-link" href="https://analytics.google.com/" target="_blank" rel="noopener">Open GA4</a>
-        </div>
+        <h3>Daily Visits</h3>
+        <p>Visit trends are recorded to understand how this page reaches readers over time.</p>
       </article>
-
       <article class="visitor-card">
-        <h3>Regional Footprints</h3>
-        <p>For public country/region display, create a FlagCounter badge and paste the generated image/link here. It can show countries and visitor charts without making the homepage visually noisy.</p>
-        <div class="region-orbits" aria-label="Regional footprint placeholder"><span class="region-dot"></span><span class="region-dot"></span><span class="region-dot"></span><span class="region-dot"></span></div>
-        <div class="analytics-actions">
-          <a class="analytics-link" href="https://flagcounter.com/" target="_blank" rel="noopener">Create FlagCounter</a>
-          <a class="analytics-link" href="https://www.goatcounter.com/" target="_blank" rel="noopener">Create GoatCounter</a>
-        </div>
+        <h3>Visitor Regions</h3>
+        <p>Regional footprints help me learn where visitors come from and how this page connects with a broader research community.</p>
       </article>
-    </div>
-
-    <div class="analytics-note">
-      Note: the counters above are live via Busuanzi. Daily history and regional distribution require a statistics provider account; this section is already styled and ready for the generated tracking IDs.
     </div>
   </section>
 
-  <p class="footer-note">© 2026 Yuyang Gao · Built with Academic Pages, reshuffled with a four-suit theme.</p>
+  <p class="footer-note">© 2026 Yuyang Gao</p>
 </div>
 
 <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<!-- Replace `andygao6186` with your real GoatCounter site code after registering it. -->
-<script data-goatcounter="https://andygao6186.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
