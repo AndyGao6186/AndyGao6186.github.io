@@ -23,35 +23,12 @@ redirect_from:
     --radius: 28px;
   }
 
-  #main {
-    max-width: 1180px !important;
-    padding-left: 1.1rem !important;
-    padding-right: 1.1rem !important;
-  }
-
-  .sidebar, .page__title, .page__meta, .breadcrumbs {
-    display: none !important;
-  }
-
-  .page {
-    width: 100% !important;
-    padding-right: 0 !important;
-    float: none !important;
-  }
-
-  .page__inner-wrap {
-    margin: 0 auto !important;
-    max-width: 1120px !important;
-  }
-
-  .page__content {
-    font-size: 1rem;
-    line-height: 1.72;
-    color: var(--ink);
-  }
-
-  .page__content h2,
-  .page__content h3 { margin-top: 0; }
+  #main { max-width: 1180px !important; padding-left: 1.1rem !important; padding-right: 1.1rem !important; }
+  .sidebar, .page__title, .page__meta, .breadcrumbs { display: none !important; }
+  .page { width: 100% !important; padding-right: 0 !important; float: none !important; }
+  .page__inner-wrap { margin: 0 auto !important; max-width: 1120px !important; }
+  .page__content { font-size: 1rem; line-height: 1.72; color: var(--ink); }
+  .page__content h2, .page__content h3 { margin-top: 0; }
   .page__content a { color: var(--jade); text-decoration: none; }
 
   .gao-home {
@@ -61,8 +38,7 @@ redirect_from:
     font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   }
 
-  .gao-home::before,
-  .gao-home::after {
+  .gao-home::before, .gao-home::after {
     content: "";
     position: fixed;
     z-index: -1;
@@ -73,18 +49,12 @@ redirect_from:
   }
 
   .gao-home::before {
-    width: 430px;
-    height: 430px;
-    right: -160px;
-    top: 90px;
+    width: 430px; height: 430px; right: -160px; top: 90px;
     background: radial-gradient(circle, rgba(15, 118, 110, 0.15), transparent 68%);
   }
 
   .gao-home::after {
-    width: 380px;
-    height: 380px;
-    left: -160px;
-    bottom: 60px;
+    width: 380px; height: 380px; left: -160px; bottom: 60px;
     background: radial-gradient(circle, rgba(143, 29, 52, 0.11), transparent 70%);
   }
 
@@ -148,19 +118,8 @@ redirect_from:
     color: var(--jade);
   }
 
-  .hero-subtitle {
-    max-width: 650px;
-    margin: 1.1rem 0 0;
-    color: #445066;
-    font-size: 1.06rem;
-  }
-
-  .hero-actions, .tag-row, .card-links {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.7rem;
-  }
-
+  .hero-subtitle { max-width: 650px; margin: 1.1rem 0 0; color: #445066; font-size: 1.06rem; }
+  .hero-actions, .tag-row, .card-links { display: flex; flex-wrap: wrap; gap: 0.7rem; }
   .hero-actions { margin-top: 1.45rem; }
 
   .pill-link, .suit-tag {
@@ -179,15 +138,8 @@ redirect_from:
     color: var(--ink) !important;
   }
 
-  .pill-link.primary {
-    border-color: transparent;
-    background: var(--ink);
-    color: #fff !important;
-  }
-
-  .pill-link:hover, .suit-tag:hover, .project-card:hover, .journey-item:hover {
-    transform: translateY(-2px);
-  }
+  .pill-link.primary { border-color: transparent; background: var(--ink); color: #fff !important; }
+  .pill-link:hover, .suit-tag:hover, .project-card:hover, .journey-item:hover { transform: translateY(-2px); }
 
   .profile-card {
     position: relative;
@@ -224,258 +176,83 @@ redirect_from:
     border: 1px solid rgba(23, 32, 51, 0.08);
   }
 
-  .portrait-wrap img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-  }
-
-  .profile-note {
-    margin-top: 1rem;
-    padding: 1rem;
-    border-radius: 22px;
-    background: rgba(255,255,255,0.76);
-    border: 1px solid var(--line);
-  }
-
+  .portrait-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .profile-note { margin-top: 1rem; padding: 1rem; border-radius: 22px; background: rgba(255,255,255,0.76); border: 1px solid var(--line); }
   .profile-note strong { display: block; color: var(--ink); font-size: 1rem; }
   .profile-note span { display: block; margin-top: 0.25rem; color: var(--muted); font-size: 0.92rem; }
 
-  .suit-grid {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 1rem;
-    margin: 1.2rem 0 2.2rem;
-  }
-
-  .suit-card, .project-card, .journey-item, .soft-panel, .visitor-panel {
-    border: 1px solid var(--line);
-    border-radius: var(--radius);
-    background: rgba(255,255,255,0.78);
-    box-shadow: 0 12px 34px rgba(31, 49, 74, 0.06);
-  }
-
+  .suit-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1rem; margin: 1.2rem 0 2.2rem; }
+  .suit-card, .project-card, .journey-item, .soft-panel, .visitor-panel { border: 1px solid var(--line); border-radius: var(--radius); background: rgba(255,255,255,0.78); box-shadow: 0 12px 34px rgba(31, 49, 74, 0.06); }
   .suit-card { padding: 1.05rem; }
+  .suit-symbol { display: inline-grid; place-items: center; width: 2.65rem; height: 2.65rem; margin-bottom: 0.82rem; border-radius: 16px; background: var(--mist); font-size: 1.45rem; }
+  .red { color: var(--wine); } .black { color: var(--ink); } .green { color: var(--jade); } .blue { color: var(--blue); }
+  .suit-card h3, .project-card h3, .journey-text h3 { margin: 0 0 0.35rem; font-size: 1.05rem; color: var(--ink); }
+  .suit-card p, .project-card p, .journey-text p, .soft-panel p { margin: 0; color: var(--muted); font-size: 0.95rem; }
 
-  .suit-symbol {
-    display: inline-grid;
-    place-items: center;
-    width: 2.65rem;
-    height: 2.65rem;
-    margin-bottom: 0.82rem;
-    border-radius: 16px;
-    background: var(--mist);
-    font-size: 1.45rem;
-  }
-
-  .red { color: var(--wine); }
-  .black { color: var(--ink); }
-  .green { color: var(--jade); }
-  .blue { color: var(--blue); }
-
-  .suit-card h3, .project-card h3, .journey-text h3 {
-    margin: 0 0 0.35rem;
-    font-size: 1.05rem;
-    color: var(--ink);
-  }
-
-  .suit-card p, .project-card p, .journey-text p, .soft-panel p {
-    margin: 0;
-    color: var(--muted);
-    font-size: 0.95rem;
-  }
-
-  .section-head {
-    display: flex;
-    justify-content: space-between;
-    align-items: end;
-    gap: 1rem;
-    margin: 2.4rem 0 1rem;
-  }
-
-  .section-kicker {
-    color: var(--jade);
-    font-weight: 800;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    font-size: 0.78rem;
-  }
-
-  .section-head h2 {
-    margin: 0.16rem 0 0;
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(1.75rem, 3vw, 2.55rem);
-    letter-spacing: -0.04em;
-  }
-
-  .section-head p {
-    max-width: 410px;
-    margin: 0;
-    color: var(--muted);
-    font-size: 0.95rem;
-  }
-
+  .section-head { display: flex; justify-content: space-between; align-items: end; gap: 1rem; margin: 2.4rem 0 1rem; }
+  .section-kicker { color: var(--jade); font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; font-size: 0.78rem; }
+  .section-head h2 { margin: 0.16rem 0 0; font-family: Georgia, "Times New Roman", serif; font-size: clamp(1.75rem, 3vw, 2.55rem); letter-spacing: -0.04em; }
+  .section-head p { max-width: 410px; margin: 0; color: var(--muted); font-size: 0.95rem; }
   .soft-panel { padding: 1.35rem; }
   .soft-panel.about-vision p { font-size: 1.02rem; color: #445066; }
   .tag-row { margin-top: 1rem; }
+  .suit-tag { padding: 0.52rem 0.76rem; border: 1px solid var(--line); background: rgba(255,255,255,0.78); color: var(--ink); font-size: 0.9rem; }
 
-  .suit-tag {
-    padding: 0.52rem 0.76rem;
-    border: 1px solid var(--line);
-    background: rgba(255,255,255,0.78);
-    color: var(--ink);
-    font-size: 0.9rem;
-  }
-
-  .project-grid {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 1rem;
-  }
-
-  .project-card {
-    overflow: hidden;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
+  .project-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
+  .project-card { overflow: hidden; transition: transform 0.2s ease, box-shadow 0.2s ease; }
   .project-body { padding: 1.2rem; }
-
-  .project-label {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 1rem;
-    margin-bottom: 0.7rem;
-    color: var(--muted);
-    font-size: 0.78rem;
-    font-weight: 800;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-  }
-
-  .project-card video {
-    width: 100%;
-    display: block;
-    border-top: 1px solid var(--line);
-    background: #f7faf9;
-  }
-
+  .project-label { display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-bottom: 0.7rem; color: var(--muted); font-size: 0.78rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; }
+  .project-card video { width: 100%; display: block; border-top: 1px solid var(--line); background: #f7faf9; }
   .card-links { margin-top: 0.85rem; }
-
-  .mini-link {
-    display: inline-flex;
-    padding: 0.42rem 0.62rem;
-    border-radius: 999px;
-    background: var(--mist);
-    color: var(--jade) !important;
-    font-weight: 800;
-    font-size: 0.82rem;
-  }
+  .mini-link { display: inline-flex; padding: 0.42rem 0.62rem; border-radius: 999px; background: var(--mist); color: var(--jade) !important; font-weight: 800; font-size: 0.82rem; }
 
   .journey-list { display: grid; gap: 0.9rem; }
-
-  .journey-item {
-    display: grid;
-    grid-template-columns: 76px 1fr auto;
-    gap: 1rem;
-    align-items: center;
-    padding: 1rem;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  .school-logo {
-    width: 60px;
-    height: 60px;
-    border-radius: 20px;
-    display: grid;
-    place-items: center;
-    background: #fff;
-    border: 1px solid var(--line);
-  }
-
-  .school-logo img {
-    max-width: 46px;
-    max-height: 46px;
-    object-fit: contain;
-    display: block;
-  }
-
-  .journey-meta {
-    padding: 0.48rem 0.7rem;
-    border-radius: 999px;
-    background: var(--mist);
-    color: var(--muted);
-    white-space: nowrap;
-    font-size: 0.85rem;
-    font-weight: 700;
-  }
-
-  .two-col {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-    gap: 1rem;
-  }
-
-  .award-list {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    display: grid;
-    gap: 0.75rem;
-  }
-
-  .award-list li {
-    padding: 0.86rem 0.95rem;
-    border: 1px solid var(--line);
-    border-radius: 18px;
-    background: rgba(255,255,255,0.65);
-    color: #455166;
-  }
+  .journey-item { display: grid; grid-template-columns: 76px 1fr auto; gap: 1rem; align-items: center; padding: 1rem; transition: transform 0.2s ease, box-shadow 0.2s ease; }
+  .school-logo { width: 60px; height: 60px; border-radius: 20px; display: grid; place-items: center; background: #fff; border: 1px solid var(--line); }
+  .school-logo img { max-width: 46px; max-height: 46px; object-fit: contain; display: block; }
+  .journey-meta { padding: 0.48rem 0.7rem; border-radius: 999px; background: var(--mist); color: var(--muted); white-space: nowrap; font-size: 0.85rem; font-weight: 700; }
+  .two-col { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1rem; }
+  .award-list { margin: 0; padding: 0; list-style: none; display: grid; gap: 0.75rem; }
+  .award-list li { padding: 0.86rem 0.95rem; border: 1px solid var(--line); border-radius: 18px; background: rgba(255,255,255,0.65); color: #455166; }
 
   .visitor-panel {
     margin-top: 2.2rem;
-    padding: 1.2rem;
+    padding: 1.25rem;
     background:
-      linear-gradient(135deg, rgba(23,32,51,0.96), rgba(28,61,74,0.92)),
-      radial-gradient(circle at 90% 0%, rgba(255,255,255,0.18), transparent 30%);
+      radial-gradient(circle at 92% 6%, rgba(255,255,255,0.16), transparent 28%),
+      linear-gradient(135deg, rgba(23,32,51,0.96), rgba(28,61,74,0.92));
     color: #fff;
+    overflow: hidden;
   }
 
-  .visitor-panel h2 {
-    margin: 0;
-    color: #fff;
-    font-family: Georgia, "Times New Roman", serif;
-    letter-spacing: -0.03em;
-  }
-
-  .visitor-panel p { margin: 0.2rem 0 1rem; color: rgba(255,255,255,0.68); }
-
-  .visitor-stats {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 0.8rem;
-  }
-
-  .visitor-stat {
-    padding: 0.95rem;
-    border-radius: 20px;
-    background: rgba(255,255,255,0.08);
-    border: 1px solid rgba(255,255,255,0.14);
-  }
-
+  .visitor-top { display: flex; justify-content: space-between; align-items: end; gap: 1rem; margin-bottom: 1rem; }
+  .visitor-panel h2 { margin: 0; color: #fff; font-family: Georgia, "Times New Roman", serif; letter-spacing: -0.03em; }
+  .visitor-panel p { margin: 0.2rem 0 0; color: rgba(255,255,255,0.68); }
+  .visitor-mode { padding: 0.42rem 0.66rem; border-radius: 999px; background: rgba(255,255,255,0.09); border: 1px solid rgba(255,255,255,0.16); color: rgba(255,255,255,0.72); font-size: 0.78rem; font-weight: 800; white-space: nowrap; }
+  .visitor-stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.8rem; margin-bottom: 0.85rem; }
+  .visitor-stat { padding: 0.95rem; border-radius: 20px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.14); }
   .visitor-stat strong { display: block; font-size: 1.5rem; color: #fff; }
   .visitor-stat span { display: block; margin-top: 0.15rem; color: rgba(255,255,255,0.62); font-size: 0.82rem; }
+  .visitor-dashboard { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 0.85rem; }
+  .visitor-card { min-height: 185px; padding: 1rem; border-radius: 22px; background: rgba(255,255,255,0.075); border: 1px solid rgba(255,255,255,0.14); }
+  .visitor-card h3 { margin: 0 0 0.35rem; color: #fff; font-size: 1.02rem; }
+  .visitor-card p { font-size: 0.88rem; }
+  .history-bars { display: grid; grid-template-columns: repeat(7, 1fr); gap: 0.45rem; align-items: end; height: 92px; margin: 1rem 0 0.65rem; padding: 0.65rem; border-radius: 18px; background: rgba(255,255,255,0.07); }
+  .history-bars span { display: block; border-radius: 999px 999px 6px 6px; background: linear-gradient(180deg, rgba(223,242,238,0.92), rgba(15,118,110,0.72)); min-height: 18px; }
+  .history-bars span:nth-child(1) { height: 34%; } .history-bars span:nth-child(2) { height: 58%; } .history-bars span:nth-child(3) { height: 46%; } .history-bars span:nth-child(4) { height: 76%; } .history-bars span:nth-child(5) { height: 55%; } .history-bars span:nth-child(6) { height: 88%; } .history-bars span:nth-child(7) { height: 64%; }
+  .region-orbits { position: relative; min-height: 116px; margin-top: 0.9rem; border-radius: 18px; background: radial-gradient(circle at 50% 50%, rgba(255,255,255,0.13), rgba(255,255,255,0.05)); overflow: hidden; }
+  .region-orbits::before, .region-orbits::after { content: ""; position: absolute; border: 1px solid rgba(255,255,255,0.15); border-radius: 50%; inset: 18px 36px; }
+  .region-orbits::after { inset: 36px 70px; }
+  .region-dot { position: absolute; width: 9px; height: 9px; border-radius: 50%; background: #dff2ee; box-shadow: 0 0 18px rgba(223,242,238,0.9); }
+  .region-dot:nth-child(1) { left: 24%; top: 38%; } .region-dot:nth-child(2) { left: 50%; top: 24%; } .region-dot:nth-child(3) { left: 72%; top: 55%; } .region-dot:nth-child(4) { left: 42%; top: 70%; }
+  .analytics-actions { display: flex; flex-wrap: wrap; gap: 0.55rem; margin-top: 0.8rem; }
+  .analytics-link { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.45rem 0.68rem; border-radius: 999px; color: #fff !important; background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.16); font-size: 0.82rem; font-weight: 800; }
+  .analytics-note { margin-top: 0.72rem; color: rgba(255,255,255,0.50); font-size: 0.78rem; }
 
-  .footer-note {
-    margin-top: 1.1rem;
-    color: var(--muted);
-    text-align: center;
-    font-size: 0.9rem;
-  }
+  .footer-note { margin-top: 1.1rem; color: var(--muted); text-align: center; font-size: 0.9rem; }
 
   @media (max-width: 900px) {
-    .deck-hero, .project-grid, .two-col { grid-template-columns: 1fr; }
+    .deck-hero, .project-grid, .two-col, .visitor-dashboard { grid-template-columns: 1fr; }
     .suit-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .journey-item { grid-template-columns: 64px 1fr; }
     .journey-meta { grid-column: 2; width: fit-content; }
@@ -485,8 +262,9 @@ redirect_from:
     #main { padding-left: 0.75rem !important; padding-right: 0.75rem !important; }
     .deck-hero { padding: 1.25rem; border-radius: 26px; }
     .suit-grid, .visitor-stats { grid-template-columns: 1fr; }
-    .section-head { display: block; }
+    .section-head, .visitor-top { display: block; }
     .profile-card { min-height: auto; }
+    .visitor-mode { display: inline-flex; margin-top: 0.65rem; }
   }
 </style>
 
@@ -508,9 +286,7 @@ redirect_from:
     </div>
 
     <aside class="profile-card" aria-label="Profile card">
-      <div class="portrait-wrap">
-        <img src="/images/YuyangGao.png" alt="Portrait of Yuyang Gao">
-      </div>
+      <div class="portrait-wrap"><img src="/images/YuyangGao.png" alt="Portrait of Yuyang Gao"></div>
       <div class="profile-note">
         <strong>Research taste</strong>
         <span>Long-horizon autonomy, real-world feedback, and robots that learn while acting.</span>
@@ -519,26 +295,10 @@ redirect_from:
   </section>
 
   <section class="suit-grid" aria-label="Four-suit research tags">
-    <div class="suit-card">
-      <div class="suit-symbol red">♦</div>
-      <h3>Embodied Intelligence</h3>
-      <p>Turning language-level goals into grounded robotic execution.</p>
-    </div>
-    <div class="suit-card">
-      <div class="suit-symbol red">♥</div>
-      <h3>Closed-loop Science</h3>
-      <p>Using physical feedback to make experiments measurable and adaptive.</p>
-    </div>
-    <div class="suit-card">
-      <div class="suit-symbol black">♠</div>
-      <h3>Robot Manipulation</h3>
-      <p>Skill abstraction, precise pouring, grasping, and long-horizon operations.</p>
-    </div>
-    <div class="suit-card">
-      <div class="suit-symbol green">♣</div>
-      <h3>Agentic Systems</h3>
-      <p>Planning, execution logs, reflection, and stateful replanning.</p>
-    </div>
+    <div class="suit-card"><div class="suit-symbol red">♦</div><h3>Embodied Intelligence</h3><p>Turning language-level goals into grounded robotic execution.</p></div>
+    <div class="suit-card"><div class="suit-symbol red">♥</div><h3>Closed-loop Science</h3><p>Using physical feedback to make experiments measurable and adaptive.</p></div>
+    <div class="suit-card"><div class="suit-symbol black">♠</div><h3>Robot Manipulation</h3><p>Skill abstraction, precise pouring, grasping, and long-horizon operations.</p></div>
+    <div class="suit-card"><div class="suit-symbol green">♣</div><h3>Agentic Systems</h3><p>Planning, execution logs, reflection, and stateful replanning.</p></div>
   </section>
 
   <section class="soft-panel about-vision">
@@ -555,10 +315,7 @@ redirect_from:
   </section>
 
   <div class="section-head">
-    <div>
-      <div class="section-kicker">Selected Projects</div>
-      <h2>Cards on the table</h2>
-    </div>
+    <div><div class="section-kicker">Selected Projects</div><h2>Cards on the table</h2></div>
     <p>Projects are arranged like a small deck: each card highlights a concrete system, task, or research thread.</p>
   </div>
 
@@ -579,9 +336,7 @@ redirect_from:
         <p>Tuned ACT-style policies with privileged simulation information, combined simulated and real-world data, and improved manipulation success through multi-source learning.</p>
         <div class="card-links"><span class="mini-link">ACT</span><span class="mini-link">Robot Learning</span></div>
       </div>
-      <video controls preload="metadata">
-        <source src="/assets/project1.mp4" type="video/mp4">
-      </video>
+      <video controls preload="metadata"><source src="/assets/project1.mp4" type="video/mp4"></video>
     </article>
 
     <article class="project-card">
@@ -591,9 +346,7 @@ redirect_from:
         <p>Processed LiDAR observations for cone detection, built occupancy-grid maps, and used TEB planning to support autonomous high-speed navigation.</p>
         <div class="card-links"><span class="mini-link">SLAM</span><span class="mini-link">TEB Planning</span></div>
       </div>
-      <video controls preload="metadata">
-        <source src="/assets/project2.mp4" type="video/mp4">
-      </video>
+      <video controls preload="metadata"><source src="/assets/project2.mp4" type="video/mp4"></video>
     </article>
 
     <article class="project-card">
@@ -607,48 +360,31 @@ redirect_from:
   </section>
 
   <div class="section-head">
-    <div>
-      <div class="section-kicker">Academic Journey</div>
-      <h2>Where the story unfolds</h2>
-    </div>
+    <div><div class="section-kicker">Academic Journey</div><h2>Where the story unfolds</h2></div>
     <p>A clean timeline with institutional emblems, designed to feel academic without becoming heavy.</p>
   </div>
 
   <section class="journey-list" aria-label="Academic experience">
     <article class="journey-item">
       <div class="school-logo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Peking_University_seal.svg/250px-Peking_University_seal.svg.png" alt="Peking University logo"></div>
-      <div class="journey-text">
-        <h3>Peking University · School of Computer Science</h3>
-        <p>Incoming M.S. student in Computer Science; research intern on robotic perception, manipulation, and closed-loop experimental systems.</p>
-      </div>
+      <div class="journey-text"><h3>Peking University · School of Computer Science</h3><p>Incoming M.S. student in Computer Science; research intern on robotic perception, manipulation, and closed-loop experimental systems.</p></div>
       <div class="journey-meta">2025–Now</div>
     </article>
 
     <article class="journey-item">
       <div class="school-logo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tsinghua_University_Logo.svg/250px-Tsinghua_University_Logo.svg.png" alt="Tsinghua University logo"></div>
-      <div class="journey-text">
-        <h3>Tsinghua University · AI Industry Research Institute</h3>
-        <p>Research intern on dual-arm manipulation and imitation learning, combining simulation data with real-world robot demonstrations.</p>
-      </div>
+      <div class="journey-text"><h3>Tsinghua University · AI Industry Research Institute</h3><p>Research intern on dual-arm manipulation and imitation learning, combining simulation data with real-world robot demonstrations.</p></div>
       <div class="journey-meta">Jan–Apr 2025</div>
     </article>
 
     <article class="journey-item">
       <div class="school-logo"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/DLUT_logo.png/250px-DLUT_logo.png" alt="Dalian University of Technology logo"></div>
-      <div class="journey-text">
-        <h3>Dalian University of Technology · Automation</h3>
-        <p>Bachelor student; GPA 94.6; ranked 1st out of 162 students; national scholarship recipient.</p>
-      </div>
+      <div class="journey-text"><h3>Dalian University of Technology · Automation</h3><p>Bachelor student; GPA 94.6; ranked 1st out of 162 students; national scholarship recipient.</p></div>
       <div class="journey-meta">2022–2026</div>
     </article>
   </section>
 
-  <div class="section-head">
-    <div>
-      <div class="section-kicker">Honors & Beyond</div>
-      <h2>Signals beyond the page</h2>
-    </div>
-  </div>
+  <div class="section-head"><div><div class="section-kicker">Honors & Beyond</div><h2>Signals beyond the page</h2></div></div>
 
   <section class="two-col">
     <div class="soft-panel">
@@ -662,25 +398,53 @@ redirect_from:
     </div>
     <div class="soft-panel">
       <h3>Beyond Research</h3>
-      <p>
-        Outside academia, I enjoy photography, outdoor exploration, music, hardware tinkering, and electronics. These hobbies keep me close to the physical world — the same world where robots eventually have to act.
-      </p>
+      <p>Outside academia, I enjoy photography, outdoor exploration, music, hardware tinkering, and electronics. These hobbies keep me close to the physical world — the same world where robots eventually have to act.</p>
       <div class="tag-row">
         <a class="suit-tag" href="https://space.bilibili.com/260882142" target="_blank" rel="noopener">Bilibili</a>
-        <span class="suit-tag">Photography</span>
-        <span class="suit-tag">Saxophone</span>
-        <span class="suit-tag">Hardware</span>
+        <span class="suit-tag">Photography</span><span class="suit-tag">Saxophone</span><span class="suit-tag">Hardware</span>
       </div>
     </div>
   </section>
 
   <section class="visitor-panel" aria-label="Visitor statistics">
-    <h2>Visitor Record</h2>
-    <p>A quieter trace of people who have stopped by — counted, but not over-decorated.</p>
+    <div class="visitor-top">
+      <div>
+        <h2>Visitor Record</h2>
+        <p>Daily history, regional footprints, and quiet public counters for this academic homepage.</p>
+      </div>
+      <span class="visitor-mode">Analytics-ready</span>
+    </div>
+
     <div class="visitor-stats">
       <div class="visitor-stat"><strong id="busuanzi_value_site_pv">—</strong><span>Total page views</span></div>
       <div class="visitor-stat"><strong id="busuanzi_value_site_uv">—</strong><span>Unique visitors</span></div>
       <div class="visitor-stat"><strong id="busuanzi_value_page_pv">—</strong><span>This page</span></div>
+    </div>
+
+    <div class="visitor-dashboard">
+      <article class="visitor-card">
+        <h3>Daily Visit History</h3>
+        <p>GoatCounter/GA4 can record day-by-day visits. The small bar chart below is a visual placeholder; replace the GoatCounter site code after registration to make the live dashboard active.</p>
+        <div class="history-bars" aria-label="Daily visit history placeholder"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
+        <div class="analytics-actions">
+          <a class="analytics-link" href="https://andygao6186.goatcounter.com" target="_blank" rel="noopener">Open daily dashboard</a>
+          <a class="analytics-link" href="https://analytics.google.com/" target="_blank" rel="noopener">Open GA4</a>
+        </div>
+      </article>
+
+      <article class="visitor-card">
+        <h3>Regional Footprints</h3>
+        <p>For public country/region display, create a FlagCounter badge and paste the generated image/link here. It can show countries and visitor charts without making the homepage visually noisy.</p>
+        <div class="region-orbits" aria-label="Regional footprint placeholder"><span class="region-dot"></span><span class="region-dot"></span><span class="region-dot"></span><span class="region-dot"></span></div>
+        <div class="analytics-actions">
+          <a class="analytics-link" href="https://flagcounter.com/" target="_blank" rel="noopener">Create FlagCounter</a>
+          <a class="analytics-link" href="https://www.goatcounter.com/" target="_blank" rel="noopener">Create GoatCounter</a>
+        </div>
+      </article>
+    </div>
+
+    <div class="analytics-note">
+      Note: the counters above are live via Busuanzi. Daily history and regional distribution require a statistics provider account; this section is already styled and ready for the generated tracking IDs.
     </div>
   </section>
 
@@ -688,3 +452,5 @@ redirect_from:
 </div>
 
 <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<!-- Replace `andygao6186` with your real GoatCounter site code after registering it. -->
+<script data-goatcounter="https://andygao6186.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
