@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-<link rel="stylesheet" href="/assets/css/onepage-home.css?v=20261117-professional">
+<link rel="stylesheet" href="/assets/css/onepage-home.css?v=20261117-cards-restored">
 
 <div class="onepage-wrap">
   <main class="paper">
@@ -25,15 +25,16 @@ redirect_from:
         <h1 class="name" translate="no">Yuyang Gao<span class="cn-name">高瑀阳</span></h1>
         <p class="role" data-i18n="role">M.S. Student · School of Computer Science · Peking University</p>
         <div class="contact-row">
-          <a class="contact" href="mailto:gaoyuyang26@stu.pku.edu.cn" data-i18n="email">Email</a>
-          <a class="contact" href="/assets/CV.pdf" data-i18n="cv">CV</a>
-          <a class="contact" href="https://scholar.google.com/scholar?q=%22Yuyang+Gao%22+LabEvolver" target="_blank" rel="noopener" aria-label="Google Scholar — search Yuyang Gao and LabEvolver">Google Scholar</a>
-          <a class="contact" href="https://github.com/AndyGao6186" target="_blank" rel="noopener">GitHub</a>
-          <a class="contact" href="/images/wechat.png" data-i18n="wechat">WeChat</a>
+          <a class="contact" href="mailto:gaoyuyang26@stu.pku.edu.cn" data-i18n="email">✉ Email</a>
+          <a class="contact" href="/assets/CV.pdf" data-i18n="cv">📄 CV</a>
+          <a class="contact" href="https://scholar.google.com/scholar?q=%22Yuyang+Gao%22+LabEvolver" target="_blank" rel="noopener" aria-label="Google Scholar — search Yuyang Gao and LabEvolver">🎓 Google Scholar</a>
+          <a class="contact" href="https://github.com/AndyGao6186" target="_blank" rel="noopener">⚙ GitHub</a>
+          <a class="contact" href="/images/wechat.png" data-i18n="wechat">💬 WeChat</a>
         </div>
       </div>
       <div class="portrait-card">
         <img src="/images/YuyangGao.png" alt="Portrait of Yuyang Gao">
+        <div class="suit-row" aria-label="Four suits">♦ ♥ ♠ ♣</div>
       </div>
     </section>
 
@@ -42,7 +43,7 @@ redirect_from:
     </section>
 
     <section class="section">
-      <h2 class="section-title"><span data-i18n="educationTitle">Education</span></h2>
+      <h2 class="section-title"><span class="icon">🎓</span><span data-i18n="educationTitle">Education</span></h2>
       <div class="line-list">
         <div class="line-item"><span class="date-badge" data-i18n="pkuDate">2026–Present</span><p class="line-main" data-i18n="pkuLine"><strong>Peking University</strong>, M.S. in Computer Science and Technology, September 2026–present.</p></div>
         <div class="line-item"><span class="date-badge">2022–2026</span><p class="line-main" data-i18n="dlutLine"><strong>Dalian University of Technology</strong>, B.Eng. in Automation, September 2022–June 2026. Undergraduate average: 94.6/100; ranked 1/164. National Scholarship in 2024 and 2025.</p></div>
@@ -50,17 +51,17 @@ redirect_from:
     </section>
 
     <section class="section">
-      <h2 class="section-title"><span data-i18n="researchTitle">Research</span></h2>
+      <h2 class="section-title"><span class="icon">🧪</span><span data-i18n="researchTitle">Research</span></h2>
       <div class="line-list">
-        <div class="research-item"><p class="line-main" data-i18n="research1"><strong>Embodied agents and memory.</strong> Learning from execution feedback and maintaining reusable experience for long-horizon tasks.</p></div>
-        <div class="research-item"><p class="line-main" data-i18n="research2"><strong>Closed-loop science.</strong> Combining perception and reasoning with instrument readings such as mass, pH, and conductivity.</p></div>
-        <div class="research-item"><p class="line-main" data-i18n="research3"><strong>Robot learning and manipulation.</strong> Imitation learning, vision-language-action models, and adaptation across tasks.</p></div>
-        <div class="research-item"><p class="line-main" data-i18n="research4"><strong>Multimodal perception.</strong> Grounding language in objects and actions through VLMs, segmentation, and RGB-D observations.</p></div>
+        <div class="line-item"><span class="date-badge">♦</span><p class="line-main" data-i18n="research1"><strong>Embodied agents and memory.</strong> Learning from execution feedback and maintaining reusable experience for long-horizon tasks.</p></div>
+        <div class="line-item"><span class="date-badge">♥</span><p class="line-main" data-i18n="research2"><strong>Closed-loop science.</strong> Combining perception and reasoning with instrument readings such as mass, pH, and conductivity.</p></div>
+        <div class="line-item"><span class="date-badge">♠</span><p class="line-main" data-i18n="research3"><strong>Robot learning and manipulation.</strong> Imitation learning, vision-language-action models, and adaptation across tasks.</p></div>
+        <div class="line-item"><span class="date-badge">♣</span><p class="line-main" data-i18n="research4"><strong>Multimodal perception.</strong> Grounding language in objects and actions through VLMs, segmentation, and RGB-D observations.</p></div>
       </div>
     </section>
 
     <section class="section" id="publications">
-      <h2 class="section-title"><span data-i18n="publicationsTitle">Publications & Preprints</span></h2>
+      <h2 class="section-title"><span class="icon">📄</span><span data-i18n="publicationsTitle">Publications & Preprints</span></h2>
       <article class="publication-card">
         <h3><a href="https://arxiv.org/abs/2607.27690" target="_blank" rel="noopener">LabEvolver: Training-Free Experience Evolution for Safe and Grounded Wet-Lab Agents</a></h3>
         <p class="publication-authors">Jingya Wang*, <strong>Yuyang Gao*</strong>, Liuzhenghao Lv, Yonghong Tian, and Yuyang Liu.</p>
@@ -71,7 +72,7 @@ redirect_from:
     </section>
 
     <section class="section">
-      <h2 class="section-title"><span data-i18n="experienceTitle">Experience</span></h2>
+      <h2 class="section-title"><span class="icon">💼</span><span data-i18n="experienceTitle">Experience</span></h2>
       <div class="line-list">
         <div class="experience-card"><div class="school-logo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Peking_University_seal.svg/250px-Peking_University_seal.svg.png" alt="Peking University logo"></div><div><h3 data-i18n="pkuExpTitle">Peking University · Research Assistant</h3><p data-i18n="pkuExpText">Worked with Prof. Yonghong Tian on LabEvolver, integrating multimodal perception, robotic execution, safety validation, and training-free experience evolution for wet-lab agents.</p></div><span class="experience-time" data-i18n="pkuResearchDate">Nov 2025–Feb 2026</span></div>
         <div class="experience-card"><div class="school-logo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tsinghua_University_Logo.svg/250px-Tsinghua_University_Logo.svg.png" alt="Tsinghua University logo"></div><div><h3 data-i18n="thuExpTitle">Tsinghua University · AIR · Research Assistant</h3><p data-i18n="thuExpText">Worked with Prof. Guyue Zhou on mobile and dual-arm manipulation. Combined real and simulated demonstrations to train ACT policies for pick-and-place and hinged-door opening.</p></div><span class="experience-time" data-i18n="thuDate">Jan–Apr 2025</span></div>
@@ -80,16 +81,16 @@ redirect_from:
     </section>
 
     <section class="section">
-      <h2 class="section-title"><span data-i18n="projectsTitle">Selected Projects</span></h2>
-      <div class="project-row"><div><div class="project-title" data-i18n="weightTitle">Weight Editing for Vision-Language-Action Models</div><p class="project-text" data-i18n="weightText">Explored direct weight editing of π₀.₅ with OpenPI and LIBERO, evaluating task-specific improvements alongside cross-task regressions.</p><div class="chips"><span class="chip" data-i18n="exploratory">Exploratory project</span><span class="chip">OpenPI · LIBERO</span></div></div><span class="project-meta" data-i18n="weightDate">Nov 2026</span></div>
-      <div class="project-row"><div><div class="project-title" data-i18n="proj1Title">LabEvolver: Closed-Loop Wet-Lab Robotics</div><p class="project-text" data-i18n="proj1Text">Integrated a robotic platform for quantitative pouring, pH regulation, and coupled pH–conductivity control, with VLM-based grounding and instrument feedback.</p><div class="chips"><span class="chip" data-i18n="chipEmbodied">Embodied AI</span><span class="chip" data-i18n="chipSDL">Self-Driving Lab</span></div></div><span class="project-meta">2026</span></div>
-      <div class="project-row"><div><div class="project-title" data-i18n="proj2Title">Dual-Arm Robot Manipulation with Imitation Learning</div><p class="project-text" data-i18n="proj2Text">ACT-style policies with privileged simulation information and real-world demonstrations.</p><a class="mini-media" href="/assets/project1.mp4" data-i18n="viewVideo">View video</a></div><span class="project-meta" data-i18n="tsinghuaShort">Tsinghua</span></div>
-      <div class="project-row"><div><div class="project-title" data-i18n="proj3Title">2D SLAM Autonomous Mapping and Racing</div><p class="project-text" data-i18n="proj3Text">LiDAR-based cone detection, occupancy-grid mapping, and TEB planning for autonomous racing.</p><a class="mini-media" href="/assets/project2.mp4" data-i18n="viewVideo2">View video</a></div><span class="project-meta" data-i18n="nationalSecond">National 2nd Prize</span></div>
-      <div class="project-row"><div><div class="project-title" data-i18n="proj4Title">VLM–Pointing–SAM–Pose Pipeline</div><p class="project-text" data-i18n="proj4Text">A multimodal perception pipeline that turns scene understanding into executable object poses.</p></div><span class="project-meta" data-i18n="robotics">Robotics</span></div>
+      <h2 class="section-title"><span class="icon">🧩</span><span data-i18n="projectsTitle">Selected Projects</span></h2>
+      <div class="project-row"><div class="project-icon">♦</div><div><div class="project-title" data-i18n="weightTitle">Weight Editing for Vision-Language-Action Models</div><p class="project-text" data-i18n="weightText">Explored direct weight editing of π₀.₅ with OpenPI and LIBERO, evaluating task-specific improvements alongside cross-task regressions.</p><div class="chips"><span class="chip" data-i18n="exploratory">Exploratory project</span><span class="chip">OpenPI · LIBERO</span></div></div><span class="project-meta" data-i18n="weightDate">Nov 2026</span></div>
+      <div class="project-row"><div class="project-icon">♥</div><div><div class="project-title" data-i18n="proj1Title">LabEvolver: Closed-Loop Wet-Lab Robotics</div><p class="project-text" data-i18n="proj1Text">Integrated a robotic platform for quantitative pouring, pH regulation, and coupled pH–conductivity control, with VLM-based grounding and instrument feedback.</p><div class="chips"><span class="chip" data-i18n="chipEmbodied">Embodied AI</span><span class="chip" data-i18n="chipSDL">Self-Driving Lab</span></div></div><span class="project-meta">2026</span></div>
+      <div class="project-row"><div class="project-icon">♠</div><div><div class="project-title" data-i18n="proj2Title">Dual-Arm Robot Manipulation with Imitation Learning</div><p class="project-text" data-i18n="proj2Text">ACT-style policies with privileged simulation information and real-world demonstrations.</p><a class="mini-media" href="/assets/project1.mp4" data-i18n="viewVideo">View video</a></div><span class="project-meta" data-i18n="tsinghuaShort">Tsinghua</span></div>
+      <div class="project-row"><div class="project-icon">♦</div><div><div class="project-title" data-i18n="proj3Title">2D SLAM Autonomous Mapping and Racing</div><p class="project-text" data-i18n="proj3Text">LiDAR-based cone detection, occupancy-grid mapping, and TEB planning for autonomous racing.</p><a class="mini-media" href="/assets/project2.mp4" data-i18n="viewVideo2">View video</a></div><span class="project-meta" data-i18n="nationalSecond">National 2nd Prize</span></div>
+      <div class="project-row"><div class="project-icon">♣</div><div><div class="project-title" data-i18n="proj4Title">VLM–Pointing–SAM–Pose Pipeline</div><p class="project-text" data-i18n="proj4Text">A multimodal perception pipeline that turns scene understanding into executable object poses.</p></div><span class="project-meta" data-i18n="robotics">Robotics</span></div>
     </section>
 
     <section class="section">
-      <h2 class="section-title"><span data-i18n="awardsTitle">Awards</span></h2>
+      <h2 class="section-title"><span class="icon">🏆</span><span data-i18n="awardsTitle">Awards</span></h2>
       <div class="line-list">
         <div class="line-item"><span class="date-badge">2025</span><p class="line-main" data-i18n="award1">National College Student Intelligent Vehicle Competition, ROS Group · National Second Prize</p></div>
         <div class="line-item"><span class="date-badge">2025 & 2024</span><p class="line-main" data-i18n="award2">National Scholarship</p></div>
@@ -100,13 +101,14 @@ redirect_from:
     </section>
 
     <section class="section">
-      <h2 class="section-title"><span data-i18n="lifeTitle">Beyond Research</span></h2>
+      <h2 class="section-title"><span class="icon">🌿</span><span data-i18n="lifeTitle">Beyond Research</span></h2>
       <p class="line-main" data-i18n="lifeText">Outside research, I enjoy landscape photography, hiking, playing the saxophone, and building hardware and electronics.</p>
       <div class="chips"><a class="chip" href="https://space.bilibili.com/260882142" target="_blank" rel="noopener">Bilibili</a><span class="chip" data-i18n="photography">Photography</span><span class="chip" data-i18n="saxophone">Saxophone</span><span class="chip" data-i18n="hardware">Hardware</span></div>
     </section>
 
     <div class="visitor-line"><span data-i18n="thanks">Thank you for visiting my homepage.</span><div class="visitor-links"><a class="visitor-link" href="https://analytics.google.com/analytics/web/" target="_blank" rel="noopener" data-i18n="historyLink">Visit history</a><a class="visitor-link" href="https://analytics.google.com/analytics/web/" target="_blank" rel="noopener" data-i18n="mapLink">Visitor map</a></div></div>
     <p class="footer">© 2026 Yuyang Gao · <span data-i18n="updated">Updated November 2026</span></p>
+    <div class="paper-mark">♦ ♥ ♠ ♣</div>
   </main>
 </div>
 
@@ -114,9 +116,9 @@ redirect_from:
   const dict={
   "en": {
     "role": "M.S. Student · School of Computer Science · Peking University",
-    "email": "Email",
-    "cv": "CV",
-    "wechat": "WeChat",
+    "email": "✉ Email",
+    "cv": "📄 CV",
+    "wechat": "💬 WeChat",
     "intro": "I am a master's student in Computer Science and Technology at Peking University. My research interests are embodied AI, robot learning, and memory-augmented agents. I study how robots can use physical feedback and past experience to adapt their decisions, with wet-lab experiments as a real-world testbed.",
     "educationTitle": "Education",
     "pkuDate": "2026–Present",
@@ -180,9 +182,9 @@ redirect_from:
   },
   "zh": {
     "role": "北京大学 · 计算机学院 · 硕士研究生",
-    "email": "邮箱",
-    "cv": "简历",
-    "wechat": "微信",
+    "email": "✉ 邮箱",
+    "cv": "📄 简历",
+    "wechat": "💬 微信",
     "intro": "我是北京大学计算机科学与技术专业硕士研究生，研究兴趣包括具身智能、机器人学习与记忆增强智能体。我关注机器人如何利用物理反馈与过往经验调整决策，并以真实湿实验作为研究场景。",
     "educationTitle": "教育经历",
     "pkuDate": "2026–至今",
