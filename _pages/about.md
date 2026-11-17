@@ -27,7 +27,7 @@ redirect_from:
         <div class="contact-row">
           <a class="contact" href="mailto:gaoyuyang26@stu.pku.edu.cn" data-i18n="email">✉ Email</a>
           <a class="contact" href="/assets/CV.pdf" data-i18n="cv">📄 CV</a>
-          <a class="contact" href="https://scholar.google.com/scholar?q=%22Yuyang+Gao%22+LabEvolver" target="_blank" rel="noopener" aria-label="Google Scholar — search Yuyang Gao and LabEvolver">🎓 Google Scholar</a>
+          <a class="contact" href="https://scholar.google.com/citations?user=Pn5C71QAAAAJ&amp;hl=en&amp;oi=sra" target="_blank" rel="noopener" aria-label="Yuyang Gao on Google Scholar">🎓 Google Scholar</a>
           <a class="contact" href="https://github.com/AndyGao6186" target="_blank" rel="noopener">⚙ GitHub</a>
           <a class="contact" href="/images/wechat.png" data-i18n="wechat">💬 WeChat</a>
         </div>
