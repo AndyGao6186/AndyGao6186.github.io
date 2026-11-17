@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-<link rel="stylesheet" href="/assets/css/onepage-home.css">
+<link rel="stylesheet" href="/assets/css/onepage-home.css?v=20261117-professional">
 
 <div class="onepage-wrap">
   <main class="paper">
