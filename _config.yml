@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Yuyang Gao / 高瑀阳的学术小站"
 title_separator          : "-"
 name                     : &name "Yuyang Gao"
-# description              : &description "personal description"
+description              : "Yuyang Gao is a master's student at Peking University working on embodied AI, robot learning, and memory-augmented agents."
 url                      : https://AndyGao6186.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AndyGao6186/AndyGao6186.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "YuyangGao.png"
   name             : "Yuyang Gao"
   pronouns         : "he/his"  
-  bio              : "Bachelor student in Automation"
-  location         : "Dalian, China"
-  employer         : "Dalian University of Technology"
+  bio              : "M.S. student in Computer Science at Peking University"
+  location         : "Beijing, China"
+  employer         : "Peking University"
   # uri              : # URL
-  email            : "gaoyuyang6186@163.com" 
+  email            : "gaoyuyang26@stu.pku.edu.cn"
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
