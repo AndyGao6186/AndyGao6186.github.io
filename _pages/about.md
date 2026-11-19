@@ -46,7 +46,7 @@ redirect_from:
       <h2 class="section-title"><span class="icon">🎓</span><span data-i18n="educationTitle">Education</span></h2>
       <div class="line-list">
         <div class="line-item"><span class="date-badge" data-i18n="pkuDate">2026–Present</span><p class="line-main" data-i18n="pkuLine"><strong>Peking University</strong>, M.S. in Computer Science and Technology, September 2026–present.</p></div>
-        <div class="line-item"><span class="date-badge">2022–2026</span><p class="line-main" data-i18n="dlutLine"><strong>Dalian University of Technology</strong>, B.Eng. in Automation, September 2022–June 2026. Undergraduate average: 94.6/100; ranked 1/164.</p></div>
+        <div class="line-item"><span class="date-badge">2022–2026</span><p class="line-main" data-i18n="dlutLine"><strong>Dalian University of Technology</strong>, B.Eng. in Automation, September 2022–June 2026. Undergraduate average: 94.2/100; ranked 1/164.</p></div>
       </div>
     </section>
 
@@ -112,7 +112,7 @@ redirect_from:
     "educationTitle": "Education",
     "pkuDate": "2026–Present",
     "pkuLine": "<strong>Peking University</strong>, M.S. in Computer Science and Technology, September 2026–present.",
-    "dlutLine": "<strong>Dalian University of Technology</strong>, B.Eng. in Automation, September 2022–June 2026. Undergraduate average: 94.6/100; ranked 1/164.",
+    "dlutLine": "<strong>Dalian University of Technology</strong>, B.Eng. in Automation, September 2022–June 2026. Undergraduate average: 94.2/100; ranked 1/164.",
     "researchTitle": "Research",
     "research1": "<strong>Embodied agents and memory.</strong> Learning from execution feedback and maintaining reusable experience for long-horizon tasks.",
     "research3": "<strong>Robot learning and manipulation.</strong> Imitation learning, vision-language-action models, and adaptation across tasks.",
@@ -154,7 +154,7 @@ redirect_from:
     "educationTitle": "教育经历",
     "pkuDate": "2026–至今",
     "pkuLine": "<strong>北京大学</strong>，计算机科学与技术硕士，2026年9月至今。",
-    "dlutLine": "<strong>大连理工大学</strong>，自动化工学学士，2022年9月–2026年6月。本科均分94.6/100，排名1/164。",
+    "dlutLine": "<strong>大连理工大学</strong>，自动化工学学士，2022年9月–2026年6月。本科均分94.2/100，排名1/164。",
     "researchTitle": "研究方向",
     "research1": "<strong>具身智能体与记忆。</strong> 从执行反馈中积累经验，为长时序任务维护可复用的技能与策略。",
     "research3": "<strong>机器人学习与操作。</strong> 模仿学习、视觉语言动作模型，以及跨任务适应。",
